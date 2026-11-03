@@ -20,7 +20,27 @@ This repository contains TENNISSA's governing policies. TENNISSA is a Tennessee 
     ├── 06-privacy-confidentiality-policy.md
     ├── 07-conflict-of-interest-policy.md
     └── 08-section-25f-compliance-policy.md
-└── sop/    
+└── sop/
+    ├── SOP-01-gift-intake-and-deposit.md
+    ├── SOP-02-donor-acknowledgments-and-irs-contribution-reporting.md
+    ├── SOP-03-disqualified-person-register.md
+    ├── SOP-04-school-onboarding-and-annual-reverification.md
+    ├── SOP-05-scholarship-application-intake-and-eligibility-verification.md
+    ├── SOP-06-last-dollar-award-calculation-and-selection.md
+    ├── SOP-07-scholarship-disbursement-adjustments-and-refunds.md
+    ├── SOP-08-monthly-close-and-bank-reconciliation.md
+    ├── SOP-09-90-spending-schedule-and-85-activity-test.md
+    ├── SOP-10-payments-and-expense-reimbursement.md
+    ├── SOP-11-payroll-timekeeping-and-compensation-approval.md
+    ├── SOP-12-board-meetings-conflict-disclosures-and-minutes.md
+    ├── SOP-13-whistleblower-report-intake-and-investigation.md
+    ├── SOP-14-privacy-and-security-incident-response.md
+    ├── SOP-15-records-filing-legal-holds-and-annual-destruction.md
+    ├── SOP-16-year-end-close-audit-form-990-and-25f-certification.md
+    ├── SOP-17-approval-of-credit-related-communications.md
+    ├── SOP-18-onboarding-and-offboarding-people.md
+    ├── SOP-19-policy-and-sop-change-control.md
+
 ```
 
 
