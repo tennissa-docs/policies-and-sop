@@ -57,7 +57,7 @@ Subject to the approved budget and any Board resolution:
 
 | Transaction | Who may approve |
 |---|---|
-| Budgeted operating expense up to $2,500 | Executive Director |
+| Budgeted operating expense up to $2,500 | Executive Director (Note: Payments over $1,000 still require two signers under §4.4) |
 | Budgeted operating expense over $2,500 | Executive Director **plus** Financial Controller Director (or another officer) |
 | Unbudgeted expense over $500 | Board, or two disinterested directors acting under Board delegation, approved **in writing before** the expense |
 | Contracts up to $5,000 and up to 12 months (budgeted) | Executive Director |
