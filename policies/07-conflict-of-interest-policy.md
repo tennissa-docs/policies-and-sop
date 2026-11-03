@@ -79,7 +79,7 @@ After disclosure, and any discussion with the Board, the interested person leave
 
 > *Counsel note.* The Bylaws give TENNISSA's three Founding Directors permanent seats, and one of them is the Executive Director. When a matter involves a founder, only the remaining qualified directors can decide it. If two founders share an interest, such as the founders' own pay or a school all three are connected to, there may be **fewer than two** qualified directors, and the matter cannot be validly approved under § 48-58-703.
 
-1. TENNISSA will make reasonable efforts to fill its two open seats with **independent directors**. These are people who are not employees, not family members of a director, and have no material business relationship with TENNISSA, a director or a participating school.
+1. TENNISSA shall expand the Board to include at least two **independent directors** no later than January 1, 2027. These are people who are not employees, not family members of a director, and have no material business relationship with TENNISSA, a director or a participating school.
 2. At least one independent director should sit on any committee that sets compensation or audits the books.
 3. Until independent directors are seated, conflict matters involving the founders are decided only after obtaining written advice from independent counsel or a CPA.
 
