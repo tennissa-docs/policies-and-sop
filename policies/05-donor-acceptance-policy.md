@@ -3,20 +3,21 @@
 | | |
 |---|---|
 | **Policy ID** | TENNISSA-DON-001 |
-| **Version** | 5.0 (draft), October 2026. Replaces version 4.0. |
-| **Status** | Draft. Needs counsel and CPA review, then Board adoption. |
+| **Version** | 1.0 |
+| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
+| **Effective date** | Date of Board adoption: ____________ |
+| **Adopted by** | Board of Directors, Resolution No. ____________ |
 | **Policy owner** | Executive Director |
-| **Approved by** | Board of Directors |
 | **Review cycle** | Every year |
-| **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Scholarship](01-scholarship-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) |
+| **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Scholarship](01-scholarship-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) |
 
-> **Plain-language summary.** Only cash gifts from individuals can earn the federal scholarship tax credit, and only after TENNISSA is properly listed and registered. A donor cannot choose a student or trade a gift for a benefit. We describe the credit accurately and never give tax advice.
+> **Plain-language summary.** Only cash gifts from individuals, designated as credit-eligible when made, and given while TENNISSA is on the official list, can earn the federal scholarship tax credit. A donor cannot choose a student or trade a gift for a benefit. TENNISSA alone decides who receives scholarships. We describe the credit accurately and never give tax advice.
 
 ---
 
 ## 1. Purpose
 
-This policy makes sure gifts are accepted, documented and used in line with TENNISSA's charitable purposes, Section 25F, IRC §§ 170 and 6115, and Tennessee charitable solicitation law.
+This policy makes sure gifts are accepted, documented and used in line with TENNISSA's charitable purposes, IRC §§ 25F, 170 and 6115, and the Tennessee Charitable Solicitations Act (Tenn. Code Ann. § 48-101-501 et seq.).
 
 ## 2. Acceptance Principles
 
@@ -28,32 +29,41 @@ This policy makes sure gifts are accepted, documented and used in line with TENN
 
 ### 3.1 What can qualify
 
-A gift is treated as a Section 25F contribution only if **all** of the following are true:
+A gift is treated as a Section 25F qualified contribution only if **all** of the following are true:
 
-1. it is **cash**, meaning check, card, ACH or wire. Stock, cryptocurrency, property, services and in-kind gifts do **not** qualify;
-2. it comes from an **individual**, made in their own name. Spouses are separate donors. Gifts from corporations, partnerships, LLCs, S corporations, trusts or foundations do not qualify;
-3. it is made **on or after** the date both of the following are in effect: (a) TENNISSA appears on Tennessee's official list of approved scholarship granting organizations provided to the Treasury, and (b) TENNISSA has completed its IRS SGO registration;
-4. it is **not earmarked** for a particular student (§5); and
-5. the donor provides the information TENNISSA needs to issue the Section 25F donor statement (§7).
+1. it is **cash**: currency, check, money order, card, ACH, wire or after-tax payroll deduction, in U.S. dollars. Stock, digital assets (including cryptocurrency), property, services and in-kind gifts do **not** qualify;
+2. it comes from an **individual**, in their own name. Each spouse is a separate donor. Gifts from corporations, partnerships, LLCs, S corporations, trusts, foundations or donor-advised funds do not qualify;
+3. the donor **designates it as a qualified contribution at the time of the gift** (for example, by checking the designation box on the gift form). Under the proposed regulations, a designation cannot later be revoked by the donor or TENNISSA;
+4. it is made while TENNISSA is listed as an SGO for that calendar year (§3.2);
+5. it is **not earmarked** for a particular student (§4); and
+6. TENNISSA provides no goods or services in return (§7.3).
 
-Gifts that do not meet every condition may still be accepted as ordinary charitable gifts. They are deposited in the **operating account** and are never presented to the donor as credit-eligible.
+Every designated gift is deposited in the Section 25F account. Gifts that do not meet every condition may still be accepted as ordinary charitable gifts. They go to the **operating account** and are never described to the donor as credit-eligible.
 
-### 3.2 Before TENNISSA is listed
+### 3.2 Listing status
 
-Until both §3.1(3) conditions are met, every TENNISSA communication must say that credit-eligible giving **has not yet opened**. Interest-list sign-ups and pledges are not contributions.
+TENNISSA accepts designations as qualified contributions **only** on or after the date TENNISSA (a) has completed its IRS SGO portal registration, (b) has been included by TDOE on Tennessee's State SGO list for that calendar year, and (c) appears on the IRS SGO list. Until then, every TENNISSA communication says that credit-eligible giving **has not yet opened**. Interest-list sign-ups and pledges are not contributions.
+
+> **⚑ Review flag DON-R1.** Credit-eligible giving begins January 1, 2027, but Tennessee's 2027 State SGO list is not due to the IRS until February 15, 2027. Counsel should confirm whether gifts made before TENNISSA appears on the IRS SGO list can qualify, and update §3.2 accordingly.
 
 ### 3.3 No guarantee of credit
 
-The credit depends on the donor's own tax situation: the per-taxpayer cap (currently $1,700), the fact that it is nonrefundable, the carryforward rules and any reduction for state credits. TENNISSA does **not** guarantee that a donor will receive a credit and does **not** give tax advice. Donors are referred to their own tax advisers.
+The credit depends on the donor's own tax situation:
 
-**No double benefit.** Donors should be told that, under Section 25F, an amount claimed as the credit generally cannot also be deducted as a charitable contribution.
+- it is **nonrefundable** and limited to the donor's federal income tax liability;
+- it is capped at **$1,700 per taxpayer per year** (under the proposed regulations, up to $3,400 on a joint return if each spouse makes qualified contributions);
+- it is reduced by any state tax credit for the same contribution;
+- unused credit may be carried forward up to five years; and
+- an amount claimed as the credit cannot also be deducted as a charitable contribution. Any amount above the credit may be deductible under the normal rules.
 
-## 4. Donor Influence
+TENNISSA does **not** guarantee that a donor will receive a credit and does **not** give tax advice. Donors are referred to their own tax advisers.
 
-1. Donors give to TENNISSA's general scholarship fund. TENNISSA alone determines eligibility, selection, award amounts and payment.
+## 4. Donor Influence and TENNISSA's Control
+
+1. Donors give to TENNISSA's scholarship program. **TENNISSA alone** determines eligibility, selection, award amounts and payment, and keeps full control and discretion over all contributed funds.
 2. Donors may **not**:
    - select, recommend or veto a student;
-   - require an award to themselves, a family member or a related person;
+   - require an award to themselves, a family member or any other person;
    - condition a gift on any benefit to themselves, such as a tuition discount, admission priority, or a payment or service from a school; or
    - receive information about which students benefited from their gift.
 3. **Tuition-swap and quid-pro-quo arrangements are prohibited.** Examples:
@@ -61,60 +71,72 @@ The credit depends on the donor's own tax situation: the per-taxpayer cap (curre
    - a school reducing a donor's own tuition because the donor gave; or
    - a school requiring families to give to TENNISSA as a condition of enrollment.
 
-   TENNISSA will refuse or refund such gifts, as counsel advises, and will report them where required.
+   TENNISSA refuses or returns such gifts as counsel advises, and reports them where required.
 
-## 5. Designations
+## 5. Designations and Scholarship Preferences
 
 | Designation | Rule |
 |---|---|
-| A specific student | **Prohibited.** The gift is refused or treated as undesignated, with the donor's consent. |
-| A specific school | **Not accepted**, unless counsel confirms in writing that final Section 25F regulations allow it **and** the Board adopts written procedures. Any school preference is advisory only and cannot reduce scholarships available to students at other participating schools. |
-| A grade band, region of Tennessee, or student category (for example, students with disabilities) | Permitted only if the Board has established that program category in advance, and only if it does not effectively direct funds to one school or to disqualified persons. |
-| A general scholarship or operating fund | Permitted |
+| A specific student | **Prohibited.** The gift is refused or, with the donor's written consent, treated as undesignated. |
+| A specific participating school | **Not accepted for Section 25F gifts.** A donor may state a non-binding preference, which TENNISSA records but does not follow in selection or award amounts. |
+| A program category (for example, a grade band, a region of Tennessee, or students with disabilities) | Permitted only if the Board created that category in advance by resolution; the category is open to students at more than one participating school; and the preference does not, in practice, direct funds to an identifiable student, one school, or a disqualified person. Preferences are advisory and never override the [Scholarship Policy](01-scholarship-policy.md). |
+| The general scholarship fund or the operating fund | Permitted |
 
-## 6. Mandatory School and Student Rules
+> **⚑ Review flag DON-R2.** Section 25F prohibits earmarking for a particular student; the proposed regulations do not expressly address school or category preferences. The conservative rules above should be confirmed by counsel against the final regulations.
 
-Scholarship gifts are used only for awards to eligible students at participating schools under the [Scholarship Policy](01-scholarship-policy.md). Donor restrictions never override the school requirements (SCH-001 §3), student eligibility (§4) or the disqualified-person bar (§4.6).
+## 6. Disqualified-Person Notice to Large Donors
 
-A **substantial contributor**, as defined in Section 25F, and that contributor's family members become disqualified persons. Their children cannot receive TENNISSA scholarships. Large donors with school-age children or grandchildren should be told this **before** they give.
+A donor who gives more than $5,000 to the Section 25F account in a year, where that is more than 2% of all contributions to the account that year, is a **substantial contributor** and a disqualified person for that year and the next. Gifts by spouses are combined. Their family members, including children, grandchildren, nieces and nephews, cannot receive TENNISSA scholarships during that time (see [SCH-001](01-scholarship-policy.md) §5.6). TENNISSA tells large donors with school-age relatives about this rule **before** they give, and updates its disqualified-person register when gifts are received.
 
-## 7. Acknowledgments and Tax Statements
+## 7. Acknowledgments and Contribution Documentation
 
-1. **Section 25F donor statement.** For each Section 25F contribution, TENNISSA issues the written statement, using the donor identifier and format the IRS requires, by the IRS deadline (currently **January 31** of the year after the gift). See [SGO-001](08-section-25f-compliance-policy.md).
-2. **Contemporaneous written acknowledgment.** For any single gift of **$250 or more**, TENNISSA provides an acknowledgment that meets IRC § 170(f)(8). It states the amount and whether TENNISSA provided any goods or services in return.
-3. **Quid-pro-quo disclosure.** If a donor pays **more than $75** and receives goods or services, such as a gala dinner, TENNISSA gives the disclosure required by IRC § 6115. Gala tickets and sponsorships are **not** Section 25F contributions.
-4. Acknowledgments never state or promise tax results.
+1. **Section 25F written acknowledgment.** By **January 31** of the year after the gift, TENNISSA sends each donor who made qualified contributions a written acknowledgment showing:
+   - TENNISSA's EIN;
+   - the total qualified contributions the donor designated during the year;
+   - the donor's **unique donor number**, generated under IRS SGO portal instructions; and
+   - whether TENNISSA provided any goods or services for the contributions, with a description and good-faith estimate of their value.
+
+   Donors need this number to claim the credit on Form 8525. Acknowledgments may be sent electronically if the donor has consented and not withdrawn consent.
+2. **Contemporaneous written acknowledgment.** For any single gift of **$250 or more**, TENNISSA provides an acknowledgment meeting IRC § 170(f)(8): the amount and whether TENNISSA provided goods or services in return. This may be combined with the Section 25F acknowledgment.
+3. **Quid-pro-quo disclosure.** If a donor pays **more than $75** and receives goods or services (for example, a dinner ticket), TENNISSA gives the disclosure required by IRC § 6115. **TENNISSA does not accept Section 25F designations for event tickets, sponsorships or any payment for which a benefit is provided.**
+4. **Documentation.** Every gift is recorded as required by [FIN-001](02-financial-controls-policy.md) §7, including the designation evidence.
+5. Acknowledgments never state or promise tax results.
 
 ## 8. Noncash Gifts
 
-Noncash gifts are not credit-eligible. They may be accepted for the operating fund after review of value, transfer requirements, liquidity and liabilities. Securities are sold promptly. Real estate, closely held business interests and other complex assets need Board approval. TENNISSA signs Form 8283 when required and files Form 8282 if it disposes of property within three years.
+Noncash gifts are not credit-eligible. They may be accepted for the operating account after review of value, transfer requirements, liquidity and liabilities. Securities are sold promptly. Real estate, closely held business interests and other complex assets need Board approval. TENNISSA signs Form 8283 when required and files Form 8282 if it disposes of the property within three years.
 
 ## 9. Anonymous Gifts
 
-TENNISSA may honor a donor's request for **public** anonymity. TENNISSA itself must know the identity of every donor:
-
-- to issue Section 25F statements, which are impossible for an unidentified donor;
-- to screen for substantial contributors and disqualified persons; and
-- to meet anti-fraud obligations.
-
-Gifts from unknown sources of more than $250 are deposited in the operating account and are not treated as credit-eligible.
+TENNISSA may honor a donor's request for **public** anonymity, but TENNISSA itself must know the identity of every donor to issue Section 25F acknowledgments, screen for substantial contributors and meet anti-fraud obligations. A designated gift from a donor TENNISSA cannot identify is not treated as credit-eligible; counsel advises on its handling. Undesignated gifts of $250 or more from unknown sources go to the operating account.
 
 ## 10. Fundraising and Solicitation
 
-1. **Accuracy.** Materials must accurately describe the mission, the scholarship program, how funds are used, the school requirements and the credit, including that it is subject to limits and the donor's own tax situation. Phrases such as "free," "at zero cost" or "not a donation" must be accompanied by a clear qualifier, for example: "for eligible taxpayers whose federal income tax liability is at least the amount of the credit."
-2. **Tennessee registration.** Before soliciting in Tennessee, TENNISSA registers with the Secretary of State, Division of Charitable Solicitations, or files for the small-charity exemption if it qualifies. It renews every year. Any professional fundraiser or solicitor must be properly registered and have a written contract filed as required.
+1. **Accuracy.** Materials must accurately describe the mission, the scholarship program, how funds are used, the school requirements and the credit, including its limits. Words such as "free," "at zero cost" or "not a donation" must be accompanied by a clear qualifier, for example: "for eligible taxpayers whose federal income tax liability is at least the amount of the credit." The Compliance Director approves credit-related materials under [SGO-001](08-section-25f-compliance-policy.md) §6.
+2. **Tennessee registration.** Before soliciting in Tennessee, TENNISSA registers with the Secretary of State, Division of Charitable Solicitations and Gaming, or qualifies for an exemption, and renews every year. Any professional solicitor must be registered and have a written contract filed as required.
 3. **Other states.** Before actively soliciting residents of another state, TENNISSA confirms that state's registration requirements.
-4. **Privacy.** Donor lists are never sold or traded.
+4. **Privacy.** Donor lists are never sold, rented or traded.
 
 ## 11. Refunds
 
-A gift may be returned only for a lawful reason, such as an earmarking or quid-pro-quo violation, a mistaken payment or fraud. Refunds require the approval of the Executive Director and the Financial Controller Director. If the gift was reported to the IRS as a Section 25F contribution, it is refunded and corrected under [SGO-001](08-section-25f-compliance-policy.md).
+A gift may be returned only for a lawful reason, such as an earmarking or quid-pro-quo violation, a mistaken payment or fraud, with the approval of the Executive Director and the Financial Controller Director. A gift reported to the IRS as a qualified contribution is refunded and corrected only under [SGO-001](08-section-25f-compliance-policy.md) §5, with CPA or counsel guidance.
+
+> **⚑ Review flag DON-R3.** The proposed regulations make a qualified-contribution designation irrevocable. Counsel should confirm whether and how a designated gift may be refunded (for example, for fraud or a duplicate charge).
 
 ## 12. Gift Restrictions
 
-1. Restrictions must be documented in writing and honored as long as they remain lawful and practicable.
-2. Restrictions may not be changed without donor consent, or without the authority the law provides for changing restrictions when a purpose becomes impossible or impracticable, after consulting counsel.
+1. Restrictions are documented in writing and honored as long as they remain lawful and practicable.
+2. Restrictions may not be changed without donor consent or the authority the law provides when a purpose becomes impossible or impracticable, after consulting counsel.
+3. No restriction may reduce TENNISSA's control over scholarship selection or override the [Scholarship Policy](01-scholarship-policy.md).
 
 ## 13. Reporting and Review
 
 The Executive Director keeps donation records and reports unusual gifts, refused gifts and any earmarking attempts to the Board. The Board reviews this policy every year.
+
+---
+
+## Revision History
+
+| Version | Date | Description | Approved by |
+|---|---|---|---|
+| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |

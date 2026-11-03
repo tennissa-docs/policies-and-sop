@@ -3,39 +3,77 @@
 | | |
 |---|---|
 | **Policy ID** | TENNISSA-ETH-001 |
-| **Version** | 1.0 (draft), November 2026 |
-| **Status** | Draft. Needs Board adoption. |
+| **Version** | 1.0 |
+| **Status** | Draft for Board review. Not in effect until adopted. |
+| **Effective date** | Date of Board adoption: ____________ |
+| **Adopted by** | Board of Directors, Resolution No. ____________ |
 | **Policy owner** | Board Chair |
-| **Approved by** | Board of Directors |
 | **Review cycle** | Every year |
-| **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) |
+| **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Employment](10-employment-policy.md) |
 
-> **Plain-language summary.** We hold ourselves to the highest ethical and Islamic standards. We act with honesty, protect privacy, follow the law, and treat every family, student, and school with fairness and respect.
+> **Plain-language summary.** We act with honesty, treat every family, student and school fairly, protect private information, use every dollar for its charitable purpose, follow the law, and speak up when something is wrong.
 
 ---
 
 ## 1. Purpose
-This Code of Ethics and Conduct sets the standard for professional and ethical behavior for everyone representing TENNISSA. It ensures that our daily operations reflect our charitable mission and our guiding Islamic principles.
 
-## 2. Applicability
-This Code applies to all members of the Board of Directors, executive officers, employees, committee members, contractors, and volunteers (collectively, "Representatives").
+This Code sets the standard of ethical conduct for everyone who represents TENNISSA, so that its daily work reflects its charitable mission and its guiding Islamic principles.
 
-## 3. Core Values and Guiding Principles
-Representatives must align their conduct with TENNISSA's core values:
-- **Amanah (Trust & Stewardship):** We manage donor funds and scholarship resources with absolute integrity, transparency, and accountability.
-- **Adl (Justice & Fairness):** We administer scholarships objectively, without favoritism, discrimination, or bias.
-- **Ihsan (Excellence):** We strive for the highest quality in our operations, compliance, and service to the community.
-- **Rahmah (Compassion):** We treat all applicants, families, and partners with empathy, dignity, and respect.
+## 2. Who Must Follow This Code
+
+This Code applies to directors (including Founding Directors), officers, the Executive Director, employees, Scholarship Committee members and scholarship reviewers, contractors and volunteers (together, "Representatives").
+
+## 3. Guiding Principles
+
+- **Amanah (trust and stewardship).** We manage donor gifts and scholarship funds as a trust, with integrity and accountability.
+- **Adl (justice and fairness).** We decide objectively, without favoritism, discrimination or bias.
+- **Ihsan (excellence).** We aim for the highest quality in our operations, compliance and service.
+- **Rahmah (compassion).** We treat scholarship applicants, families and partners with dignity and respect.
+- **Ilm (knowledge).** We keep ourselves informed of the rules that govern our work, and we ask when we are unsure.
 
 ## 4. Ethical Standards
-1. **Compliance with Laws:** Representatives must comply with all applicable federal, state, and local laws, including Section 25F regulations, IRS rules for 501(c)(3) organizations, and Tennessee state laws.
-2. **Confidentiality:** Representatives must strictly protect the privacy of applicants, students, families, and donors. Confidential information must never be used for personal gain or shared outside of authorized channels.
-3. **Conflicts of Interest:** Representatives must avoid conflicts of interest, disclose any potential conflicts immediately, and recuse themselves from decisions where a conflict exists, in strict accordance with the [Conflict of Interest Policy](07-conflict-of-interest-policy.md).
-4. **Protection of Assets:** Representatives must protect TENNISSA’s assets and ensure their efficient use for legitimate charitable purposes. Fraud, theft, embezzlement, or misuse of funds will result in immediate termination and legal action.
-5. **Truthfulness in Communications:** All public communications, donor solicitations, and regulatory filings must be accurate, honest, and not misleading.
 
-## 5. Reporting Violations
-Any Representative who suspects a violation of this Code, a legal requirement, or a TENNISSA policy has a duty to report it under the [Whistleblower Policy](04-whistleblower-policy.md). TENNISSA strictly prohibits retaliation against anyone who reports a concern in good faith.
+1. **Integrity and compliance.** Representatives comply with all applicable laws, including Section 25F, IRS rules for § 501(c)(3) organizations and Tennessee law, and with TENNISSA's policies. They never falsify records or documents.
+2. **Transparency.** Representatives give the Board, auditors and regulators complete and accurate information, and support TENNISSA's public disclosures.
+3. **Truthful communications.** Public statements, donor solicitations and regulatory filings are accurate and not misleading, including every description of the tax credit.
+4. **Impartiality in scholarships.** Representatives who handle scholarships apply the published criteria the same way to every scholarship applicant, disclose any relationship with an applicant or school and step aside, and never accept anything of value in connection with an award.
+5. **Confidentiality.** Representatives protect the privacy of scholarship applicants, students, families and donors, use confidential information only for TENNISSA's purposes, and follow the [Privacy Policy](06-privacy-confidentiality-policy.md), during and after their service.
+6. **Conflicts of interest.** Representatives avoid conflicts, disclose any potential conflict promptly, and recuse under the [Conflict of Interest Policy](07-conflict-of-interest-policy.md). They understand that their Section 25F family members may be ineligible for scholarships.
+7. **Responsible stewardship.** Representatives use TENNISSA's funds and property only for its charitable purposes, spend carefully, follow the approval rules in the [Financial Controls Policy](02-financial-controls-policy.md), and never mix personal and TENNISSA funds.
+8. **Gifts and favors.** Representatives do not solicit or accept gifts, favors or hospitality worth more than $100 a year from anyone doing business with TENNISSA, other than customary courtesy items.
+9. **Respectful conduct.** Representatives do not harass, discriminate against or retaliate against anyone.
+10. **Accountability.** Representatives take responsibility for their decisions, correct mistakes promptly and cooperate with audits and investigations.
 
-## 6. Acknowledgment
-All Representatives must sign an acknowledgment that they have read, understood, and agree to abide by this Code of Ethics and Conduct upon joining TENNISSA and annually thereafter.
+## 5. Political Activity
+
+TENNISSA does not participate or intervene in any political campaign for or against any candidate for public office. Representatives may take part in politics in their personal capacity, but not in TENNISSA's name or with its resources. Any lobbying on TENNISSA's behalf requires prior Board approval and must stay within the limits for § 501(c)(3) organizations.
+
+## 6. Reporting Concerns
+
+Any Representative who suspects a violation of this Code, the law or a TENNISSA policy is expected to report it under the [Whistleblower Policy](04-whistleblower-policy.md). Retaliation against anyone who reports in good faith is prohibited.
+
+## 7. Violations
+
+Violations may lead to corrective action, including loss of access, removal from a committee or office, termination of employment or engagement, recovery of funds, and referral to authorities. Action involving a Founding Director's seat is limited to what the Bylaws and the law allow.
+
+## 8. Acknowledgment
+
+Every Representative signs an acknowledgment that they have read, understood and will follow this Code, when they join and every year after that. The acknowledgment may be combined with the annual conflict-of-interest statement.
+
+**Name:** ______________________ **Role:** ______________________
+
+I have read and understand the TENNISSA Code of Ethics and Conduct and agree to follow it.
+
+**Signature:** ______________________ **Date:** ____________
+
+## 9. Review
+
+The Board reviews this Code every year.
+
+---
+
+## Revision History
+
+| Version | Date | Description | Approved by |
+|---|---|---|---|
+| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |

@@ -3,218 +3,283 @@
 | | |
 |---|---|
 | **Policy ID** | TENNISSA-SCH-001 |
-| **Version** | 5.0 (draft), October 2026. Replaces version 4.0. |
-| **Status** | Draft. Needs counsel review and Board adoption. |
+| **Version** | 1.0 |
+| **Status** | Draft for Board review. Not in effect until adopted. |
+| **Effective date** | Date of Board adoption: ____________ |
+| **Adopted by** | Board of Directors, Resolution No. ____________ |
 | **Policy owner** | Executive Director, with oversight by the Scholarship Committee |
-| **Approved by** | Board of Directors |
 | **Review cycle** | Every year, and whenever federal or Tennessee rules change |
-| **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Records Retention](03-records-retention-policy.md) |
+| **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Records Retention](03-records-retention-policy.md) · [Financial Controls](02-financial-controls-policy.md) |
 
-> **Plain-language summary.** TENNISSA gives need-based K–12 scholarships to students from lower- and middle-income families who attend approved Islamic schools in Tennessee. Every award must meet the federal scholarship tax credit rules (IRC § 25F), this policy, and the school approval rules below. Awards are paid to schools, never to families as cash.
+> **Plain-language summary.** TENNISSA gives need-based K–12 scholarships to Tennessee students attending accredited Islamic schools. Scholarships are **last-dollar**: the family's state scholarship awards, school aid and other scholarships are applied first, and TENNISSA helps cover the tuition and required fees that remain. Awards are paid directly to the school, never to families as cash.
 
 ---
 
 ## 1. Purpose
 
-This policy sets fair, consistent, transparent and accountable procedures for awarding scholarships through TENNISSA. The program expands educational opportunity for eligible elementary and secondary students attending qualified Islamic K–12 schools in Tennessee.
+This policy sets fair, objective and accountable procedures for awarding scholarships through TENNISSA. The program furthers TENNISSA's charitable and educational purposes by expanding educational opportunity for eligible elementary and secondary students from lower- and middle-income households who attend participating Islamic K–12 schools in Tennessee.
 
 TENNISSA administers scholarships in accordance with:
 
-- Section 25F of the Internal Revenue Code and its Treasury regulations and IRS guidance ("Section 25F");
-- applicable Tennessee law, including Tennessee's participation in the federal program and any rules of the Tennessee Department of Education (TDOE) for scholarship granting organizations;
+- Internal Revenue Code (IRC) § 25F, its Treasury regulations and IRS guidance ("Section 25F"), also known as the Federal Scholarship Tax Credit (FSTC) or Education Freedom Tax Credit;
+- the requirements that apply to TENNISSA as a § 501(c)(3) public charity;
+- Tennessee law, including the Federal Tax Credit Scholarship Act (2026) and any Tennessee Department of Education (TDOE) requirements for scholarship granting organizations (SGOs);
 - TENNISSA's Articles of Incorporation and Bylaws; and
-- lawful donor restrictions, as limited by [Donor Acceptance Policy](05-donor-acceptance-policy.md).
+- lawful donor restrictions, as limited by the [Donor Acceptance Policy](05-donor-acceptance-policy.md).
 
 If this policy conflicts with Section 25F or other applicable law, the law controls.
 
+> **⚑ Review flag SCH-R1.** Section 25F regulations are currently **proposed** (REG-117199-25, published October 2, 2026; comments due December 1, 2026). Organizations may rely on them for 2027 only if they follow them in their entirety and consistently. Counsel should confirm this policy against the final regulations and the separate IRS guidance on qualified expenses under IRC § 530(b)(3) when issued.
+
 ## 2. Scope
 
-This policy applies to the Board of Directors, the Executive Director, the Scholarship Committee, staff, volunteers, contractors and platform vendors involved in scholarship administration, as well as participating schools and applicants.
+This policy applies to the Board of Directors, the Executive Director, the Scholarship Committee, staff, volunteers, contractors and service providers involved in scholarship administration, and to participating schools and scholarship applicants.
 
-## 3. Participating-School Requirements
+## 3. Definitions
 
-### 3.1 Requirements
+- **Scholarship applicant.** A parent or legal guardian applying on behalf of a student, or the student if 18 or older.
+- **Scholarship recipient.** A student who has been awarded a TENNISSA scholarship.
+- **Participating school.** A school that meets every requirement of §4 and has signed a participation agreement.
+- **Qualified Costs.** The tuition and required fees charged by the participating school to the student for the award year, as stated in the school's published schedule and confirmed in the participation agreement. (See §8.1.)
+- **Other Assistance.** All grant aid that pays any part of the student's Qualified Costs for the same award year, including:
+  - Tennessee Education Freedom Scholarship (EFS), Education Savings Account (ESA) and Individualized Education Account (IEA) awards;
+  - scholarships from any other SGO or charity;
+  - tuition discounts, financial aid or waivers from the school (including sibling, staff and need-based discounts); and
+  - any other third-party grant or employer tuition benefit paid for the student.
+- **Remaining Need.** Qualified Costs minus Other Assistance (not less than zero).
+- **Recognized Accrediting Agency.** See §4.1(B).
 
-To take part in the scholarship program, a school must meet **all** of the following:
+## 4. Participating-School Requirements
 
-**A. Tennessee non-public school approval.** The school must be a Tennessee non-public school with current approval or recognition from TDOE in **Category I, II or III**, as shown on TDOE's official listing or in equivalent official documentation.
+### 4.1 Requirements
 
-> *Counsel note.* Version 4.0 required "Category III" only. TDOE's categories describe *how* a school is approved; they are not a quality ranking. Category III (approved through a recognized regional accreditor such as Cognia) is not better than Category I or II. Requiring Category III only would leave out lawfully approved schools for no program reason. Tennessee's EFS program also accepts Category I, II and III schools. Category IV and V schools (church-related schools affiliated with an association, and exempt schools) are excluded unless the Board decides otherwise after counsel review.
+To take part in the scholarship program, a school must meet **all** of the following.
 
-**B. CISNA accreditation.** The school must hold current, active accreditation from the Council of Islamic Schools in North America (CISNA). Membership or a pending application does not meet this requirement.
+**A. Tennessee non-public school approval.** The school is a Tennessee non-public school with current approval from TDOE in **Category I, II or III**, as shown on TDOE's official listing or in equivalent official documentation. Category IV and V schools are not eligible unless the Board decides otherwise after counsel review.
 
-> **Board decision — transitional approval (optional §3.1B-T).** CISNA does not appear among the accreditors that TDOE recognizes for Category II or III approval. This means CISNA accreditation and TDOE approval are two separate credentials, and very few Tennessee Islamic schools may hold both at launch. The scholarship program cannot operate unless students at **more than one** school can receive awards (see §4.6). If the Board wants a path for schools still seeking CISNA accreditation, it may adopt the following clause:
->
-> *"The Board, by resolution of disinterested directors, may grant transitional approval for up to two (2) consecutive school years to a school that satisfies §3.1A and has achieved formal CISNA candidacy status, provided the school submits a written accreditation timeline and annual progress confirmation from CISNA. Transitional approval lapses automatically if candidacy ends."*
->
-> If the Board does not adopt this clause, delete this box. The strict rule then applies with no exceptions. **TENNISSA's public website must state whichever rule the Board adopts.**
+**B. Accreditation by a recognized regional or national accrediting agency.** The school holds current, active (not candidate or applicant) accreditation from a **Recognized Accrediting Agency**, which means:
 
-**C. Lawful operation and good standing.** The school must be lawfully operating in Tennessee. It must be in good standing with its approving body and must not be barred from participating in any Tennessee or federal school choice program because of fraud or misconduct.
+1. an accrediting agency whose accreditation TDOE accepts for Category II or Category III approval; or
+2. another regional or national accrediting agency for K–12 schools that the Board has added to its published list of Recognized Accrediting Agencies, after confirming that the agency uses published standards, conducts periodic on-site review, and is itself recognized by an established accreditation-recognition body.
 
-**D. Nondiscrimination statement.** The school must give TENNISSA its written admissions policy and a certification that it does not discriminate in admissions on the basis of race, color or national origin. A religiously affiliated school may maintain its religious character and religious admissions criteria as permitted by law.
+A school approved by TDOE in Category II or Category III on the basis of its accreditation satisfies this requirement. A Category I school must separately show accreditation under (1) or (2).
 
-**E. Participation agreement.** The school must sign TENNISSA's school participation agreement. The agreement covers tuition and fee schedules, how payments are received and applied, refunds when a student withdraws, enrollment verification, records access, data protection, and prompt notice of any change in status.
+> **⚑ Review flag SCH-R2.** The Board should adopt and publish its list under §4.1(B)(2) before the first award cycle. Counsel should confirm the current TDOE list of accrediting agencies accepted for Category II and III approval.
 
-### 3.2 Initial verification
+**C. Islamic school.** The school is an Islamic elementary or secondary school, meaning it publicly identifies as Islamic in its governing documents or mission statement and provides Islamic studies as part of its regular curriculum. This criterion carries out TENNISSA's charitable purpose as stated in its Articles of Incorporation.
 
-Before approving a school, TENNISSA must document that it verified each requirement in §3.1. Acceptable evidence includes TDOE's official listing, written confirmation from TDOE or CISNA, current accreditation certificates, and the signed participation agreement. Verification is performed by someone with no conflict of interest regarding that school (see [Conflict of Interest](07-conflict-of-interest-policy.md) §9).
+> **⚑ Review flag SCH-R3.** Counsel should confirm that §4.1(C) matches the purposes stated in TENNISSA's Articles of Incorporation. The proposed Section 25F regulations prohibit a *State* from limiting the types of schools scholarship recipients may attend, but expressly allow an SGO to narrow its own focus, provided it otherwise meets all Section 25F requirements, including the requirement to fund students at more than one school (§6.3).
 
-### 3.3 Annual reverification and continuing compliance
+**D. Lawful operation and good standing.** The school is lawfully operating in Tennessee, is in good standing with its approving body, and is not barred from any Tennessee or federal school-choice program because of fraud or misconduct.
 
-TENNISSA must reverify every requirement before each award year. It must also reverify promptly whenever it learns of a possible change.
+**E. Nondiscrimination.** The school provides its written admissions policy and certifies that it does not discriminate in admissions on the basis of race, color or national origin. A religiously affiliated school may maintain its religious character and religious admissions criteria as permitted by law.
 
-A school must notify TENNISSA within **10 business days** of any suspension, expiration, revocation, withdrawal, probation or other change affecting a requirement.
+**F. Participation agreement.** The school signs TENNISSA's participation agreement. The agreement covers:
 
-If a school stops meeting a requirement:
+- the tuition and fee schedule;
+- how payments are received and applied to the student's account;
+- the school's duty to report Other Assistance it provides or knows about;
+- refunds of any amount in excess of the student's costs or paid in error, and refunds when a student withdraws;
+- enrollment verification, records access and data protection; and
+- notice of any change in status within **10 business days**.
+
+### 4.2 Initial verification
+
+Before approving a school, TENNISSA documents that it verified each requirement in §4.1, using TDOE's official listing, written confirmation from TDOE or the accrediting agency, current accreditation certificates and the signed participation agreement. Verification is performed by someone with no conflict of interest regarding that school (see [Conflict of Interest](07-conflict-of-interest-policy.md) §9).
+
+### 4.3 Annual reverification and continuing compliance
+
+TENNISSA reverifies every requirement before each award year, and promptly whenever it learns of a possible change. If a school stops meeting a requirement:
 
 1. TENNISSA immediately suspends **new** awards to students at that school.
-2. Awards already committed are handled to protect the affected students. Where the law allows, the remaining award may be transferred to another participating school the student moves to, or paid through the end of the current academic term. Counsel decides any doubtful case.
+2. Awards already committed are handled to protect the affected students. Where the law allows, the remaining award may be paid through the end of the current academic term or transferred to another participating school the student moves to. Counsel decides any doubtful case.
 3. The school may participate again only after every requirement has been restored and reverified.
 
-### 3.4 Student eligibility is separate
+### 4.4 Student eligibility is separate
 
-Approval of a school does not make every student at that school eligible. Each student must independently meet Section 4.
+Approval of a school does not make any student at that school eligible. Each student must independently meet §5.
 
-### 3.5 Official references
+### 4.5 Official references
 
 - TDOE Non-Public Schools: <https://www.tn.gov/education/families/school-options/non-public-schools.html>
-- CISNA Accreditation: <https://cisnausa.org/accreditation/>
+- TDOE Scholarship Granting Organizations: <https://www.tn.gov/education/about-the-tdoe/scholarship-granting-organizations.html>
 
-## 4. Student Eligibility
+## 5. Student Eligibility
 
-A student is eligible only if **every** requirement in §§4.1–4.5 is met.
+A student is eligible only if **every** requirement in §§5.1–5.5 is met.
 
-### 4.1 Eligible student under Section 25F
+### 5.1 Eligible student under Section 25F
 
-The student must be an "eligible student" under Section 25F:
+- **(a) Public-school eligibility.** The student is eligible to enroll in a public elementary or secondary school.
+- **(b) Household income.** The student is a member of a household whose income for the **calendar year before the application** does not exceed **300% of the area median gross income**, adjusted for family size, as determined under Section 25F and IRS guidance. Under the proposed regulations, the household is the student plus the people residing with the student, and household income counts cash income only.
+- **(c) Tennessee residence.** The student resides in Tennessee under Tennessee law. Exceptions recognized in Section 25F guidance (currently, dependents of members of the U.S. Armed Forces and of individuals residing on Indian lands) apply as stated in that guidance.
 
-- **(a) Public-school eligibility.** The student must be eligible to enroll in a public elementary or secondary school, meaning a Tennessee resident of school age.
-- **(b) Household income.** The household's income must not exceed **300% of the area median gross income** for the student's area, using the HUD figures and methodology required by Section 25F and IRS guidance.
-- **(c) Residency.** The student's legal residence must be in Tennessee, the state that has elected into the federal program. Exceptions recognized by Section 25F, such as for military families, apply as stated in IRS guidance.
+### 5.2 Verifying household income
 
-### 4.2 Verifying income
+TENNISSA verifies household income and family size for every scholarship applicant, using only methods permitted by Section 25F guidance:
 
-TENNISSA verifies household income using only methods allowed under Section 25F guidance. These include:
+1. **Direct verification**: pay stubs, the prior-year federal or state tax return, an IRS tax transcript, Forms W-2, and evidence of other cash income (such as child support).
+2. **Categorical eligibility**: an award letter dated within the last 12 months showing that a member of the student's household currently participates in SNAP, TANF, WIC, Section 8 housing assistance or SSI, or another program the IRS recognizes.
+3. **Foster-child safe harbor**, where the student is a foster child as defined in the guidance.
 
-- the household's most recent federal income tax return or an IRS tax transcript, obtained with written consent;
-- current pay statements or other income documentation the IRS accepts; or
-- documented current participation in a means-tested program that IRS guidance treats as proof of eligibility (for example, SNAP, TANF, WIC, federal housing assistance or SSI), along with any foster-care or other safe harbor the guidance allows.
+TENNISSA does **not** require Social Security numbers unless the law requires them. It asks for redacted copies or transcripts. School-wide free or reduced-price lunch status is not acceptable proof.
 
-TENNISSA must **not** require a Social Security number unless the law requires it. When a tax document is needed, TENNISSA asks for a redacted copy or a tax transcript.
+### 5.3 Enrollment
 
-### 4.3 Enrollment
+The student is enrolled in, or formally accepted for enrollment at, a participating school.
 
-The student must be enrolled in, or formally accepted for enrollment at, a participating school that meets Section 3.
+### 5.4 Disclosure of Other Assistance
 
-### 4.4 Coordination with EFS, ESA and IEA (replaces v4.0 §4.2)
+Each scholarship applicant must disclose, and update within 10 business days of any change, all Other Assistance applied for, awarded or received for the award year, with amounts. Families are encouraged to apply for EFS, ESA or IEA awards and school aid for which they are likely eligible. Not applying does not by itself disqualify a student, but TENNISSA may estimate likely Other Assistance when setting the award (§7.2).
 
-> *Counsel note.* Version 4.0 proposed that any student who "qualifies for" Tennessee's Education Freedom Scholarship (EFS) or Education Savings Account (ESA) program would be ineligible for a TENNISSA scholarship. We recommend against that rule, for three reasons:
->
-> 1. **Almost every student would be excluded.** EFS is open statewide to K–12 students. Income only affects priority, not eligibility, so nearly every Tennessee student "qualifies." The rule would shut out most applicants, including the low-income families the program exists to serve.
-> 2. **It may conflict with Section 25F priorities.** Section 25F sets its own eligibility and priority rules. A broad state-program exclusion may not fit with them.
-> 3. **It cannot be administered.** Whether a student "qualifies" depends on lotteries, funding caps and program tiers that change every year.
->
-> We have replaced it with a **coordination ("last-dollar") rule**. The family uses state funds first, and TENNISSA covers the remaining need.
+### 5.5 Other requirements
 
-**(a) Disclosure.** Each applicant must disclose whether the student has applied for, been awarded, or is receiving an EFS, ESA or Individualized Education Account (IEA) award for the same school year, and the amount.
-
-**(b) Apply-first expectation.** Families are encouraged to apply for any state program for which they are likely eligible. TENNISSA may provide information about these programs. Not applying does not, by itself, disqualify a student.
-
-**(c) Award limit.** A TENNISSA award, when added to any state award and other scholarships, may not exceed the student's qualified education expenses for the year at the participating school (tuition, required fees and other qualified expenses under Section 25F). TENNISSA reduces or adjusts its award so that no expense is paid twice.
-
-**(d) Priority use of funds.** In setting award amounts, TENNISSA may consider remaining unmet need after state awards, so that limited scholarship funds reach the most students.
-
-> **Board decision — alternative.** If the Board still wants to limit TENNISSA awards to students who *do not receive* (rather than *qualify for*) a state award, it may replace (c)–(d) with: *"A student who is receiving an EFS or ESA award for the same school year is eligible only for the portion of qualified expenses not covered by that award."* A full exclusion of students who merely *qualify* should be adopted only after written approval from Tennessee counsel.
-
-### 4.5 Other requirements
-
-Applicants must also:
+Scholarship applicants must:
 
 - submit a complete application by the published deadline;
 - provide accurate information and reasonably requested documents;
-- meet any lawful, objective program criteria (such as grade level or need tiers) published **before** the application period opens; and
-- agree to the award terms.
+- meet any objective program criteria (such as grade level or income tiers) published **before** the application period opens; and
+- accept the award terms, including the consent to share enrollment and payment information with the school.
 
+### 5.6 Disqualified persons
 
-## 5. Priority and Selection
+No scholarship may be awarded to a **disqualified person**. Under the proposed Section 25F regulations, disqualified persons include:
 
-### 5.1 Section 25F priority
+- TENNISSA's directors and officers (and anyone with similar powers);
+- anyone who participates in selecting scholarship recipients, including Scholarship Committee members and reviewers;
+- **substantial contributors**, generally any person who gave more than $5,000 to TENNISSA's Section 25F account in a taxable year where that amount is more than 2% of all contributions the account received that year (a spouse's gifts are combined; status lasts for that year and the next); and
+- **family members** of any of these people: spouses; ancestors and descendants of the individual or the individual's spouse; siblings of the individual or the individual's spouse; descendants of those siblings; and the spouse of any of these. Descendants include adopted children and stepchildren.
 
-When funds are limited, TENNISSA gives priority in this order, and documents it:
+TENNISSA screens every application against its disqualified-person register (see [COI-001](07-conflict-of-interest-policy.md) §5) before an award is approved.
 
-1. students who received a TENNISSA scholarship in the prior school year and remain eligible (**renewals**); then
-2. siblings of students in priority 1; then
-3. all other eligible applicants, ranked by the published need-based criteria in §5.2.
+> **⚑ Review flag SCH-R4.** This definition is broader than the conflict-of-interest family definition used elsewhere: it reaches nieces, nephews and a spouse's siblings. In a close school community this may exclude many families connected to directors and committee members. Counsel should confirm the final definition and the relief for inadvertent awards in proposed Treas. Reg. § 1.25F-3(d)(2)(ii).
 
-### 5.2 Need-based ranking
+## 6. Priority and Selection
 
-Within priority 3, applicants are ranked by objective criteria published in advance. These criteria are household income as a percentage of area median income, household size, and documented special circumstances. The method is applied consistently and recorded in the scholarship platform.
+### 6.1 Section 25F priority
 
-### 5.3 Breadth requirement
+When funds are limited, TENNISSA awards scholarships in this order, and documents it:
 
-TENNISSA must offer scholarships to students at **more than one** participating school and must award scholarships to the minimum number of students required by Section 25F (currently at least ten). TENNISSA may not limit its scholarships to students at a single school.
+1. eligible students who received a TENNISSA scholarship in the previous school year (**renewals**); then
+2. eligible students with a sibling who received a TENNISSA scholarship (**siblings**); then
+3. all other eligible applicants, ranked under §6.2.
 
-### 5.4 Nondiscrimination and fairness
+### 6.2 Objective need-based ranking
 
-Selection may not be based on race, color, national origin, sex or disability, and may not be influenced by personal relationships, favoritism or private benefit. Who a donor is, or how much a donor gives, may never affect which student is selected.
+Within priority 3, applicants are ranked by objective criteria published before the application period opens:
 
-### 5.5 Decision makers
+1. household income as a percentage of the applicable income limit (lower ranks higher);
+2. Remaining Need as a percentage of Qualified Costs (higher ranks higher); and
+3. a published tie-breaker (for example, application date and time, or random lottery).
 
-Awards are approved by the Scholarship Committee or another body of at least two people that the Board designates. Members must have no conflict regarding the applicant. Committee members must complete the annual conflict disclosure, and their own family members are ineligible (§4.6).
+The Board may add documented special-circumstance criteria (for example, a recent loss of household income) only if they are objective and published in advance. The same method is applied to every applicant and is recorded.
 
-## 6. Application and Award Process
+### 6.3 Breadth requirement
 
-1. Publish criteria, priorities, award ranges, deadlines and application instructions.
-2. Receive applications through TENNISSA's scholarship platform (currently FACTS Compass), with the required consents.
-3. Verify household income, residency and enrollment (§4), and screen for disqualified persons.
-4. Record EFS/ESA/IEA disclosures and apply §4.4.
-5. Confirm the school still meets Section 3.
-6. Rank and select under Section 5.
-7. Approve awards by the authorized, disinterested decision makers.
-8. Notify applicants in writing, with the award amount, terms and how to appeal.
-9. Record each award: student, school, amount, year, funding account, approval date, approvers, and verification evidence.
+TENNISSA must provide scholarships to **10 or more students who do not all attend the same school** each year, and may not limit scholarships to students at a single school.
 
-## 7. Award Administration and Payment
+### 6.4 Nondiscrimination and fairness
 
-### 7.1 Qualified expenses only
+Selection may not be based on race, color, national origin, sex, disability or religion, and may not be influenced by personal relationships, favoritism or private benefit. Who a donor is, or how much a donor gives, never affects selection.
 
-Awards pay only for qualified elementary or secondary education expenses under Section 25F at the participating school. This is mainly tuition and required fees only.
+> **⚑ Review flag SCH-R5.** Religion is listed as a prohibited selection factor because TENNISSA selects students by need, not belief. A participating school's own religious admissions criteria are unaffected. The Board should confirm this choice.
 
-### 7.2 Paid directly to the school
+### 6.5 Decision makers
 
-Payments are made **directly to the participating school** (or to an approved education service provider for an allowed expense). TENNISSA never pays scholarship funds to a parent or student as cash. The only exception is a reimbursement against a verified paid receipt, or payment through a qualified restricted payment method, where Section 25F guidance expressly allows it and the Board has approved the process.
+Awards are approved by the Scholarship Committee or another body of at least two people the Board designates. Members must have no conflict regarding the applicant, must complete the annual conflict statement, and are disqualified persons whose family members cannot receive scholarships (§5.6). To limit the number of disqualified persons, the Board should keep the committee small and may use staff or a service provider to apply the published ranking mechanically, with the committee approving the results.
 
-### 7.3 Withdrawal and refunds
+## 7. Last-Dollar Award Model
 
-If a student withdraws or changes schools, the school must refund unused amounts to TENNISSA according to its participation agreement. Refunds go back into the Section 25F scholarship account and are re-awarded.
+### 7.1 Principle
 
-### 7.4 Funding source
+TENNISSA scholarships are **last-dollar** awards. Other Assistance is applied first. TENNISSA's award helps cover what remains.
 
-Scholarships funded by credit-eligible contributions are paid **only** from the segregated Section 25F account. See the [Financial Controls Policy](02-financial-controls-policy.md) §6 and the [Section 25F Compliance Policy](08-section-25f-compliance-policy.md).
+### 7.2 Calculating the award
 
-### 7.5 No private benefit
+For each scholarship recipient, the award for the year is the **least** of:
 
-Scholarship funds may never be diverted to the personal use of directors, officers, employees, donors or other insiders.
+1. the student's **Remaining Need** (Qualified Costs minus Other Assistance);
+2. the **maximum award** for the student's income tier, as set by the Board before the application period opens; and
+3. the amount TENNISSA has available for that award under §7.4.
 
-## 8. Donor Restrictions
+Where an EFS, ESA or IEA award or school aid has been applied for but not yet decided, TENNISSA may make a provisional award based on a reasonable estimate and adjust it when the decision is known.
 
-Donors may give to the general scholarship fund only. **Donors may not designate, recommend or select a particular student**, and may not condition a gift on an award to any person. Any designation to a particular school, grade or program is governed by the [Donor Acceptance Policy](05-donor-acceptance-policy.md) §5. Donor restrictions never override this policy.
+### 7.3 No double payment
 
-## 9. Appeals and Complaints
+The total of TENNISSA's award and all Other Assistance may never exceed the student's Qualified Costs. If Other Assistance increases after an award is made, TENNISSA reduces the remaining payments. If an overpayment has already been made, the school must return the excess under its participation agreement. TENNISSA maintains procedures to prevent and detect duplicate funding of the same expense, as Section 25F guidance requires.
 
-1. An applicant may appeal a denial or award amount in writing within **15 business days** after the decision notice.
+### 7.4 Award tiers and budget
+
+Before each application period, the Board approves award tiers (for example, by income band) and the total amount available for awards, based on the Section 25F account balance and the spending schedule in [FIN-001](02-financial-controls-policy.md) §6.3. Tiers and maximums are published with the application.
+
+### 7.5 Multi-year awards
+
+Awards are made for one school year at a time. Renewal requires a new application and new income verification, subject to renewal priority under §6.1.
+
+## 8. Award Administration and Payment
+
+### 8.1 Qualified Costs only
+
+Awards pay only tuition and required fees charged by the participating school. These are qualified elementary or secondary education expenses under IRC § 530(b)(3)(A), as referenced by Section 25F.
+
+> **⚑ Review flag SCH-R6.** Section 25F allows a broader range of expenses (for example, books, supplies, tutoring and certain technology). Limiting awards to tuition and required fees is a deliberate policy choice that keeps administration simple. The Board may broaden the definition only after counsel reviews the forthcoming IRS guidance under § 530(b)(3).
+
+### 8.2 Paid directly to the school
+
+Payments are made **directly to the participating school**, by term, only after the school confirms the student's enrollment for that term. TENNISSA never pays scholarship funds to a parent or student.
+
+### 8.3 Withdrawals and refunds
+
+If a student withdraws or changes schools, or a payment exceeds the student's costs or was made in error, the school refunds the unused or excess amount to TENNISSA under its participation agreement. Refunds are deposited in the Section 25F account and re-awarded. Under the proposed regulations, a refund is treated as income in the year it is returned and must be spent on scholarships by the end of the following year (see [FIN-001](02-financial-controls-policy.md) §6.3).
+
+### 8.4 Funding source
+
+Scholarships are paid **only** from the segregated Section 25F account unless the Board, by resolution, authorizes scholarships from other restricted scholarship funds in the operating account. Every award records its funding account.
+
+### 8.5 No private benefit
+
+Scholarship funds may never be diverted to the personal use of directors, officers, employees, donors or other insiders, and may never be used to benefit a school in exchange for anything of value to TENNISSA or an insider.
+
+## 9. Application and Award Process
+
+1. Publish criteria, priorities, award tiers, deadlines and application instructions.
+2. Receive applications through TENNISSA's approved scholarship platform, with the required consents.
+3. Verify household income, family size, residence and enrollment (§5).
+4. Screen for disqualified persons (§5.6).
+5. Record Other Assistance and calculate Remaining Need (§§5.4, 7).
+6. Confirm the school still meets §4.
+7. Rank and select under §6.
+8. Approve awards by the authorized, disinterested decision makers.
+9. Notify scholarship applicants in writing of the award amount, terms and how to appeal.
+10. Record each award: student, school, Qualified Costs, Other Assistance, award amount, year, funding account, approval date, approvers and verification evidence.
+
+## 10. Donor Restrictions
+
+Donors give to TENNISSA's general scholarship fund. **Donors may not designate, recommend or select a particular student**, and may not condition a gift on an award to any person. Section 25F prohibits earmarking or setting aside contributions for any particular student. Any other donor preference is governed by the [Donor Acceptance Policy](05-donor-acceptance-policy.md) §5 and never overrides this policy.
+
+## 11. Appeals and Complaints
+
+1. A scholarship applicant may appeal a denial or award amount in writing within **15 business days** after the decision notice.
 2. Appeals are decided within **30 days** by people who did not make the original decision and have no conflict.
-3. An appeal may correct factual or procedural errors. It cannot waive Section 3 or Section 4 requirements.
+3. An appeal may correct factual or procedural errors. It cannot waive §4 or §5.
 4. Complaints about possible misconduct may be made under the [Whistleblower Policy](04-whistleblower-policy.md).
 
-## 10. Fraud Prevention and Recovery
+## 12. Fraud Prevention and Recovery
 
-If TENNISSA finds that an award was obtained through false or misleading information, it may cancel the award, recover funds where legally permitted, bar future applications, and report the matter to the appropriate authorities.
+If TENNISSA finds that an award was obtained through false or misleading information, or that an award was paid to an ineligible student or disqualified person, it may cancel the award, recover funds where legally permitted, bar future applications, and report the matter to the appropriate authorities. Corrections follow [SGO-001](08-section-25f-compliance-policy.md) §5.
 
-## 11. Monitoring and Reporting
+## 13. Monitoring and Reporting
 
-The Executive Director reports to the Board at least quarterly. The report covers applications, awards by priority tier and school, funds paid, school status changes, appeals, disqualified-person screening results, and any compliance concerns. Annual figures feed into the Section 25F reports described in [SGO-001](08-section-25f-compliance-policy.md).
+The Executive Director reports to the Board at least quarterly on applications, awards by priority tier and school, amounts paid, Other Assistance applied, school status changes, appeals, disqualified-person screening and compliance concerns. Annual figures feed the Section 25F reporting in [SGO-001](08-section-25f-compliance-policy.md).
 
-## 12. Review
+## 14. Review
 
-The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state programs change.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
+
+---
+
+## Revision History
+
+| Version | Date | Description | Approved by |
+|---|---|---|---|
+| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
