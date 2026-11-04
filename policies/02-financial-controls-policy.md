@@ -157,7 +157,7 @@ Financial records are kept under the [Records Retention Policy](03-records-reten
 
 ## 13. Review
 
-The Board reviews this policy every year, after each audit, and whenever Section 25F guidance changes.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
