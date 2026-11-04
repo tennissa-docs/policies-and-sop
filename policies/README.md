@@ -1,14 +1,5 @@
-# TENNISSA Policy Framework
+# TENNISSA Policy
 
-**TENNISSA** · Policy set Version 1.0 · Draft for Board review, November 2026
-
-This folder holds TENNISSA's governance, financial and program policies as a nonprofit scholarship granting organization (SGO) under IRC § 25F, the Federal Scholarship Tax Credit (FSTC). Every policy is **Version 1.0** and takes effect only when the Board of Directors adopts it.
-
-> **Status at a glance (as of November 3, 2026).** Tennessee has elected to participate in Section 25F for 2027. Treasury and the IRS issued **proposed** regulations on October 1, 2026 (published October 2; comments due December 1; hearing December 15). SGOs may rely on them for 2027 contributions if they follow them in full. Credit-eligible giving begins **January 1, 2027**, and Tennessee's 2027 SGO list is due to the IRS by **February 15, 2027**. These policies follow the proposed regulations and flag every point that needs confirmation.
-
----
-
-## Policy Index
 
 | # | File | Policy ID | Policy | Owner |
 |---|---|---|---|---|
@@ -77,77 +68,6 @@ These terms are used the same way in every policy.
 
 ---
 
-## Key Decisions Reflected in Version 1.0
-
-1. **Last-dollar scholarships.** Awards equal the lesser of Remaining Need (tuition and required fees minus EFS/ESA/IEA awards, school aid and other scholarships) and the Board's tier maximum (SCH-001 §7).
-2. **Accreditation.** The CISNA-specific requirement is replaced by accreditation from a **recognized regional or national accrediting agency**. Schools approved by TDOE in Category II or III on the basis of accreditation automatically qualify (SCH-001 §4.1(B)).
-3. **Islamic-school criterion made explicit.** Removing the CISNA requirement also removed the only rule that tied participating schools to TENNISSA's Islamic-school mission, so SCH-001 §4.1(C) now states it directly.
-4. **Section 25F rules updated to the October 2026 proposed regulations**, including:
-   - the 90% spending deadline is the **end of the year after** the year income is received (FIN-001 §6.3);
-   - "income" means total gross receipts unless TENNISSA meets the **85% scholarship-activity safe harbor** (FIN-001 §6.3);
-   - the **broader disqualified-person definition**, which covers selection-committee members and extends to nieces, nephews and a spouse's relatives (SCH-001 §5.6, COI-001 §3);
-   - donors must **designate** qualified contributions when they give (DON-001 §3.1);
-   - January 31 acknowledgments with a **unique donor number**, February 28 IRS reporting, annual certification with Form 990, and an annual **financial and programmatic audit** (SGO-001 §4).
-5. **All overhead from the operating account.** Nothing but scholarships leaves the Section 25F account. This resolves an earlier inconsistency between the financial controls and expense reimbursement policies (FIN-001 §6.2, EXP-001 §7).
-6. **Platform-neutral.** References to a named platform vendor were removed; policies refer to TENNISSA's approved scholarship and donation platform.
-7. **Cross-reference repairs.** References to a nonexistent disqualified-person section were corrected; the guiding principles are now listed consistently (five principles, including Ilm) in EMP-001 and ETH-001.
-
----
-
-## Legal and Tax Review Flags
-
-Each flag is marked **⚑** in the policy text. Counsel or the CPA should resolve them before adoption.
-
-| Flag | Policy | Question |
-|---|---|---|
-| SCH-R1, SGO-R1 | SCH, SGO | Confirm all Section 25F provisions against final regulations and forthcoming § 530(b)(3) expense guidance |
-| SCH-R2 | SCH | Confirm TDOE's accepted accrediting agencies; Board to publish its Recognized Accrediting Agency list |
-| SCH-R3 | SCH | Confirm Islamic-school criterion matches the Articles and Section 25F |
-| SCH-R4 | SCH | Confirm final disqualified-person definition and inadvertent-award relief |
-| SCH-R5 | SCH | Board to confirm religion as a prohibited selection factor |
-| SCH-R6 | SCH | Board choice to limit awards to tuition and required fees |
-| FIN-R1 | FIN | Gross deposit of qualified contributions; treatment of school refunds |
-| FIN-R2 | FIN | Confirm TENNISSA meets the 85% activity safe harbor each year |
-| REC-R1 | REC | Confirm any Section 25F-specific retention period |
-| WB-R1 | WB | Designate the Independent Reporting Contact and confidential channel |
-| WB-R2 | WB | Confirm Secretary of State anonymous complaint process and agency jurisdiction |
-| DON-R1 | DON | Whether gifts before TENNISSA appears on the IRS SGO list can qualify |
-| DON-R2 | DON | Confirm school and category preference rules |
-| DON-R3 | DON | Whether an irrevocably designated gift can be refunded |
-| PRIV-R1 | PRIV | Confirm breach-notice statute and state privacy-law coverage |
-| COI-R1 | COI | Independent-director deadline; founder compensation before seats are filled |
-| COI-R2 | COI | Bylaws reference and judicial-removal citation |
-| SGO-R2 | SGO | Confirm IRS public-charity determination letter |
-| SGO-R3 | SGO | Audit deadline, certification form, 990-N handling, Tennessee registration, TDOE requirements |
-| EXP-R1 | EXP | Reporting of reimbursements to directors and volunteers |
-| EMP-R1 | EMP | Title VII religious exemption; laws applicable at current headcount |
-| EMP-R2 | EMP | No founder compensation until lawfully approved |
-| EMP-R3 | EMP | Align Resolution 2026-001 with EMP-001 and COI-001 |
-| INV-R1 | INV | Applicable Tennessee prudence standard (UPMIFA) |
-
----
-
-## Adoption Checklist
-
-1. Counsel and CPA review; resolve or accept each flag above.
-2. Board decides the open choices: Recognized Accrediting Agency list (SCH-001 §4.1(B)), religion in selection (SCH-R5), award tiers (SCH-001 §7.4), operating reserve target (INV-001 §6.3), Treasury bills or Sharia-compliant products (INV-001 §4).
-3. Designate the Independent Reporting Contact and confidential channel; publish on the website (WB-001 §4).
-4. Seat independent directors (COI-001 §8).
-5. Adopt all policies by a single Board resolution; fill in the effective date, resolution number and approval line in each policy's header and Revision History.
-6. Collect signed Code of Ethics acknowledgments and conflict/disqualified-person statements from every director, officer, committee member and reviewer.
-7. Register in the IRS SGO portal and complete TDOE's SGO application.
-8. Publish the public privacy notice, scholarship criteria and credit disclosures.
-
----
-
-## Version Control
-
-- All policies are numbered **Version 1.0** from this adoption. Earlier drafts are superseded and are not part of the version history.
-- Any change after adoption is made by Board resolution and recorded in that policy's **Revision History** table with a new version number (1.1 for minor edits, 2.0 for substantive revisions). Every adopted version is kept permanently under REC-001.
-- File names and Policy IDs stay the same across versions.
-
----
-
 ## Principal Sources Checked
 
 - IRC § 25F and § 139K (Public Law 119-21, § 70411)
@@ -155,5 +75,3 @@ Each flag is marked **⚑** in the policy text. Counsel or the CPA should resolv
 - IRS, *Federal Scholarship Tax Credit (FSTC) – Participating states* (Tennessee listed for 2027)
 - Tennessee Federal Tax Credit Scholarship Act (SB 2206, 2026) and TDOE SGO announcement (October 7, 2026)
 - Tennessee Secretary of State, Division of Charitable Solicitations and Gaming
-
-*This framework is not legal or tax advice. TENNISSA should rely on its own counsel and CPA.*
