@@ -4,9 +4,8 @@
 |---|---|
 | **Policy ID** | TENNISSA-WB-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors|
 | **Policy owner** | Board Chair, or the designated Compliance Contact |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Records Retention](03-records-retention-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Code of Ethics](13-code-of-ethics.md) · [Employment](10-employment-policy.md) |
@@ -118,14 +117,10 @@ Corrective action may include:
 - revising policies; and
 - notifying authorities where required.
 
-## 12. Distribution and Review
+## 12. Distribution 
 
-This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. The Board reviews it every year.
+This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. 
 
----
+## 13. Review
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
