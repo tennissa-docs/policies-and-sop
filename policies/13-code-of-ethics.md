@@ -4,14 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-ETH-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Not in effect until adopted. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Board Chair |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Employment](10-employment-policy.md) |
-
-> **Plain-language summary.** We act with honesty, treat every family, student and school fairly, protect private information, use every dollar for its charitable purpose, follow the law, and speak up when something is wrong.
 
 ---
 
@@ -68,12 +65,7 @@ I have read and understand the TENNISSA Code of Ethics and Conduct and agree to 
 
 ## 9. Review
 
-The Board reviews this Code every year.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
