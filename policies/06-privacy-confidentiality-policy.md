@@ -4,14 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-PRIV-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Executive Director (Privacy Officer), or another officer the Board designates |
 | **Review cycle** | Every year, and after any significant incident |
 | **Related** | [Records Retention](03-records-retention-policy.md) · [Scholarship](01-scholarship-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Code of Ethics](13-code-of-ethics.md) |
-
-> **Plain-language summary.** We collect only what we need, keep it in secure systems, share it only when necessary, never sell it, and tell people promptly if something goes wrong.
 
 ---
 
@@ -103,7 +100,6 @@ Information is kept and destroyed under the [Records Retention Policy](03-record
    - **reports** to the Board.
 3. Service providers must notify TENNISSA of any incident affecting TENNISSA data within the time stated in their contract.
 
-> **⚑ Review flag PRIV-R1.** Counsel should confirm (a) the current text of Tenn. Code Ann. § 47-18-2107, and (b) that TENNISSA, as a nonprofit, is not subject to the Tennessee Information Protection Act (Tenn. Code Ann. § 47-18-3201 et seq.) or other comprehensive state privacy laws for donors in other states.
 
 ## 12. Confidentiality Agreements and Training
 
@@ -117,12 +113,7 @@ Parents, scholarship applicants and donors may ask to see or correct the informa
 
 ## 14. Review
 
-The Board reviews this policy every year, after any significant incident and whenever applicable law changes.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
