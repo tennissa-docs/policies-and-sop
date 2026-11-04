@@ -4,14 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-EMP-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs employment counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Executive Director, with Board oversight |
 | **Review cycle** | Every year |
 | **Related** | [Whistleblower](04-whistleblower-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Expense Reimbursement](09-expense-reimbursement-policy.md) · [Code of Ethics](13-code-of-ethics.md) · [Resolution 2026-001](TENNISSA-RESOLUTION-2026-001-Executive-Officers.md) |
-
-> **Plain-language summary.** TENNISSA is an equal opportunity employer committed to a safe, respectful workplace. Employment is at-will. Pay is reasonable, fixed in advance and approved by directors without a conflict. Hourly employees record all their time and never work off the clock.
 
 ---
 
@@ -36,7 +33,6 @@ TENNISSA provides equal employment opportunity to all employees and applicants w
 
 **Religious organization.** As a faith-based organization, TENNISSA may make employment decisions based on religion where the law permits, including under the religious-organization exemption in Title VII of the Civil Rights Act of 1964 (42 U.S.C. § 2000e-1(a)) and its Articles of Incorporation. This exemption concerns religion only; it does not permit discrimination on any other protected basis.
 
-> **⚑ Review flag EMP-R1.** Employment counsel should confirm (a) whether TENNISSA qualifies as a "religious corporation" for the Title VII exemption, and (b) which federal and Tennessee laws apply at TENNISSA's current headcount (for example, Title VII and the ADA apply at 15 employees, the Tennessee Human Rights Act at 8, and Tennessee workers' compensation generally at 5).
 
 ## 5. Compensation (Officers, Directors and Staff)
 
@@ -49,7 +45,6 @@ TENNISSA provides equal employment opportunity to all employees and applicants w
 7. **Directors.** Directors receive no pay for serving as directors.
 8. **Disclosure.** Compensation of officers, directors and key employees is reported on Form 990 as required.
 
-> **⚑ Review flag EMP-R2.** Until independent directors are seated, there may be fewer than two qualified directors to approve founder compensation ([COI-001 §8](07-conflict-of-interest-policy.md)). No founder compensation should be paid until it is approved through a lawful process.
 
 ## 6. Classification and Payroll
 
@@ -65,7 +60,6 @@ All non-exempt employees, including any Founding Director serving as a paid non-
 2. **Hours limits.** As set in Resolution 2026-001, officers are limited to **130 hours per month** and **40 hours per workweek**. Overtime requires prior written Board approval and, if worked, is paid as the law requires.
 3. **No off-the-clock work.** No one may perform paid duties without recording the time. Doing one's paid job "as a volunteer" off the clock is prohibited. Unpaid service as a director (for example, attending Board meetings) is not counted as work time.
 
-> **⚑ Review flag EMP-R3.** Resolution 2026-001 was not included in this review. Counsel should confirm that its terms (positions, classification, hours caps and approvals) match this policy and [COI-001](07-conflict-of-interest-policy.md).
 
 ## 8. Performance Oversight
 
@@ -92,12 +86,6 @@ Employees must:
 
 ## 11. Review
 
-The Board reviews this policy every year.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
