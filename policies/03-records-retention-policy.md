@@ -4,7 +4,6 @@
 |---|---|
 | **Policy ID** | TENNISSA-REC-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
 | **Effective date** | Date of Board adoption: 10/30/2026|
 | **Adopted by** | Board of Directors |
 | **Policy owner** | Records Custodian (Executive Director or designee) |
