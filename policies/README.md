@@ -1,4 +1,4 @@
-# TENNISSA Policy
+## TENNISSA Policy
 
 
 | # | File | Policy ID | Policy | Owner |
@@ -27,9 +27,6 @@ These policies operate under TENNISSA's Articles of Incorporation and Bylaws. If
 
 - **Founding Directors.** Three Founding Directors hold permanent seats. One serves as Executive Director.
 - **Open seats.** Two Board seats are open. [COI-001 §8](07-conflict-of-interest-policy.md) requires at least **two independent directors** to be seated by January 1, 2027, so that conflict matters involving founders (including founder compensation) can be decided by at least two qualified directors, as Tennessee law requires.
-- **Removal.** Founding Directors may be removed from a seat only as the Bylaws and the Tennessee Nonprofit Corporation Act allow.
-
-### Roles
 
 | Role | Responsibilities in these policies |
 |---|---|
@@ -41,8 +38,6 @@ These policies operate under TENNISSA's Articles of Incorporation and Bylaws. If
 | **Compliance Director** | Section 25F status, IRS SGO portal, donor acknowledgments, IRS reporting, approval of credit-related materials |
 | **Scholarship Committee** | Approves awards under SCH-001; members are Section 25F disqualified persons |
 | **Independent Reporting Contact** | Outside counsel, CPA or other independent professional who receives reports involving founders or a Board majority (WB-001) |
-
-Officer titles should match Resolution 2026-001 (Executive Officers), which was not part of this review.
 
 ---
 
