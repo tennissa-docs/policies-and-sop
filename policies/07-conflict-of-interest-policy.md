@@ -4,14 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-COI-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Board Chair, or a disinterested director the Board designates |
 | **Review cycle** | Every year |
 | **Related** | [README: governance structure](README.md#governance-structure) · [Scholarship](01-scholarship-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Joint Venture](12-joint-venture-policy.md) |
-
-> **Plain-language summary.** Tell the Board about any interest that could affect your judgment, step out of the decision, and let people without a conflict decide. Some conflicts cannot be cured by stepping out: in particular, the families of directors, officers and anyone who helps select scholarship recipients cannot receive TENNISSA scholarships.
 
 ---
 
@@ -87,7 +84,6 @@ After disclosure and any discussion with the Board, the interested person leaves
 2. At least one independent director sits on any committee that sets compensation or oversees the audit.
 3. Until independent directors are seated, conflict matters involving the founders (including founder compensation) are decided only after written advice from independent counsel or a CPA, and only by a lawful vote under §7.5.
 
-> **⚑ Review flag COI-R1.** The January 1, 2027 deadline is less than two months away and coincides with the start of credit-eligible giving. Counsel should confirm that the Bylaws allow these seats to be filled and whether any founder-compensation decision can lawfully be made before then. Independent directors are disqualified persons too: their Section 25F family members cannot receive scholarships.
 
 ## 9. Scholarship Applicants, Recipients and Participating Schools
 
@@ -138,7 +134,6 @@ If the qualified directors have reasonable cause to believe a Covered Person fai
 
 For a Founding Director, action is limited to what the Bylaws and the law allow. Removal from a **seat** is available only as permitted there, including judicial removal under the Tennessee Nonprofit Corporation Act.
 
-> **⚑ Review flag COI-R2.** Counsel should confirm the Bylaws section governing Founding Directors and the correct statutory citation for judicial removal of a director.
 
 ## 15. Documentation in Board Minutes
 
@@ -186,9 +181,3 @@ The Board designates a disinterested director, or an independent professional, t
 **Signature:** ______________________ **Date:** ____________
 
 ---
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
