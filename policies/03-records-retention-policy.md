@@ -106,12 +106,4 @@ The Records Custodian runs this policy under Board oversight, trains people who 
 
 ## 9. Review
 
-The Board reviews this policy every year.
-
----
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026  | Policy for Board adoption. | BoD |
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
