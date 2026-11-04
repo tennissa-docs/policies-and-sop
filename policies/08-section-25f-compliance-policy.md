@@ -4,14 +4,12 @@
 |---|---|
 | **Policy ID** | TENNISSA-SGO-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Compliance Director, with the Financial Controller Director |
 | **Review cycle** | Every year, and within 60 days after new IRS, Treasury or TDOE guidance |
 | **Related** | [Scholarship](01-scholarship-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Records Retention](03-records-retention-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) |
 
-> **Plain-language summary.** Keeping TENNISSA on Tennessee's list, and protecting donors' credits, depends on a specific set of federal requirements. This policy gives each requirement an owner and a deadline, and flags what still depends on rules that are not yet final.
 
 ---
 
@@ -23,7 +21,6 @@ This policy assigns responsibility for TENNISSA's compliance with:
 - **Treasury guidance**: Notice 2025-70; Rev. Proc. 2026-6 (state advance elections); **proposed regulations** §§ 1.25F-1 through 1.25F-5 (REG-117199-25, 91 FR 62818, October 2, 2026); and companion **temporary regulations** (T.D. 10057) on registration, reporting and certification; and
 - **Tennessee law**: the Federal Tax Credit Scholarship Act (2026), under which Tennessee elected to participate and TDOE certifies SGOs, submits Tennessee's State SGO list to the Treasury and publishes it.
 
-> **⚑ Review flag SGO-R1 (applies to the whole policy).** The proposed regulations are not final. Comments are due December 1, 2026 and a public hearing is scheduled for December 15, 2026. SGOs may rely on them for qualified contributions made on or after January 1, 2027, **but only if they follow them in their entirety and consistently**. Every number, form and date in this policy must be checked against the final regulations, IRS forms and TDOE procedures before it is relied on. If this policy conflicts with current law, the law controls, and the Compliance Director proposes an update.
 
 ## 2. Status Requirements
 
@@ -39,7 +36,6 @@ TENNISSA must maintain all of the following at all times:
 
 Credit-eligible contributions are accepted **only** while every requirement above is current (see [DON-001 §3.2](05-donor-acceptance-policy.md)). If any requirement lapses, or TENNISSA is removed from a State or IRS SGO list, the Compliance Director tells the Board immediately and TENNISSA stops describing contributions as credit-eligible until the requirement is restored.
 
-> **⚑ Review flag SGO-R2.** Counsel should confirm that TENNISSA holds an IRS determination letter as a public charity. The proposed regulations allow a State to list an organization whose exemption application is pending only under specific conditions.
 
 ## 3. Core Operating Requirements
 
@@ -81,7 +77,6 @@ Credit-eligible contributions are accepted **only** while every requirement abov
 | **By the Tennessee deadline** | Renew Tennessee charitable registration or exemption. | Executive Director |
 | **Annually** | Board reviews all policies and this calendar. | Board |
 
-> **⚑ Review flag SGO-R3.** Confirm: (a) the deadline for the annual audit and for delivering it to TDOE; (b) the form for the annual certification; (c) how the Form 990-N situation is handled; (d) the Tennessee charitable registration renewal deadline and whether TENNISSA qualifies for an exemption; and (e) any TDOE application, documentation and financial reporting requirements, which the proposed regulations require States to impose.
 
 ## 5. Corrections and Errors
 
@@ -122,12 +117,7 @@ At every regular meeting, the Compliance Director gives a short compliance dashb
 
 ## 9. Review
 
-The Board reviews this policy every year, and within 60 days after final Section 25F regulations, new IRS procedures or TDOE rules are issued.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
