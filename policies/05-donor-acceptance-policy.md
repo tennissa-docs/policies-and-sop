@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-DON-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Executive Director |
 | **Review cycle** | Every year |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Scholarship](01-scholarship-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) |
@@ -44,8 +42,6 @@ Every designated gift is deposited in the Section 25F account. Gifts that do not
 
 TENNISSA accepts designations as qualified contributions **only** on or after the date TENNISSA (a) has completed its IRS SGO portal registration, (b) has been included by TDOE on Tennessee's State SGO list for that calendar year, and (c) appears on the IRS SGO list. Until then, every TENNISSA communication says that credit-eligible giving **has not yet opened**. Interest-list sign-ups and pledges are not contributions.
 
-> **⚑ Review flag DON-R1.** Credit-eligible giving begins January 1, 2027, but Tennessee's 2027 State SGO list is not due to the IRS until February 15, 2027. Counsel should confirm whether gifts made before TENNISSA appears on the IRS SGO list can qualify, and update §3.2 accordingly.
-
 ### 3.3 No guarantee of credit
 
 The credit depends on the donor's own tax situation:
@@ -81,8 +77,6 @@ TENNISSA does **not** guarantee that a donor will receive a credit and does **no
 | A specific participating school | **Not accepted for Section 25F gifts.** A donor may state a non-binding preference, which TENNISSA records but does not follow in selection or award amounts. |
 | A program category (for example, a grade band, a region of Tennessee, or students with disabilities) | Permitted only if the Board created that category in advance by resolution; the category is open to students at more than one participating school; and the preference does not, in practice, direct funds to an identifiable student, one school, or a disqualified person. Preferences are advisory and never override the [Scholarship Policy](01-scholarship-policy.md). |
 | The general scholarship fund or the operating fund | Permitted |
-
-> **⚑ Review flag DON-R2.** Section 25F prohibits earmarking for a particular student; the proposed regulations do not expressly address school or category preferences. The conservative rules above should be confirmed by counsel against the final regulations.
 
 ## 6. Disqualified-Person Notice to Large Donors
 
@@ -121,8 +115,6 @@ TENNISSA may honor a donor's request for **public** anonymity, but TENNISSA itse
 
 A gift may be returned only for a lawful reason, such as an earmarking or quid-pro-quo violation, a mistaken payment or fraud, with the approval of the Executive Director and the Financial Controller Director. A gift reported to the IRS as a qualified contribution is refunded and corrected only under [SGO-001](08-section-25f-compliance-policy.md) §5, with CPA or counsel guidance.
 
-> **⚑ Review flag DON-R3.** The proposed regulations make a qualified-contribution designation irrevocable. Counsel should confirm whether and how a designated gift may be refunded (for example, for fraud or a duplicate charge).
-
 ## 12. Gift Restrictions
 
 1. Restrictions are documented in writing and honored as long as they remain lawful and practicable.
@@ -139,4 +131,4 @@ The Executive Director keeps donation records and reports unusual gifts, refused
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-ETH-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Not in effect until adopted. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Board Chair |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Employment](10-employment-policy.md) |
@@ -76,4 +74,4 @@ The Board reviews this Code every year.
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

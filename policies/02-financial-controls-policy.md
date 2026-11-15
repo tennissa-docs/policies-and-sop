@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-FIN-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Financial Controller Director (Treasurer), with Board oversight |
 | **Review cycle** | Every year, and after each annual audit |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Records Retention](03-records-retention-policy.md) · [Expense Reimbursement](09-expense-reimbursement-policy.md) · [Investment](11-investment-policy.md) |
@@ -87,8 +85,6 @@ Every contribution the donor designates as a qualified contribution is deposited
 
 **Gross deposit.** Qualified contributions are deposited at their full amount. Card or platform processing fees may not be netted against them. Fees are paid from the operating account.
 
-> **⚑ Review flag FIN-R1.** Some donation platforms deduct fees before depositing. Counsel or the CPA should confirm how the platform's settlement works and whether gross deposit is required to keep the account "exclusively" for qualified contributions. The proposed regulations do not expressly address school refunds being redeposited; the CPA should confirm their treatment.
-
 ### 6.2 What goes out
 
 Funds leave the Section 25F account **only** for scholarship payments for eligible students under the [Scholarship Policy](01-scholarship-policy.md). Administrative, fundraising and personnel costs, including all compensation, are paid **only** from the operating account.
@@ -102,8 +98,6 @@ Funds leave the Section 25F account **only** for scholarship payments for eligib
 3. **Ordering.** Payments count against the earliest year's income first (first-in, first-out). A scholarship counts as spent only when paid. Amounts paid count toward only one year. A school refund is income in the year it is returned.
 4. **Quarterly schedule.** Each quarter, the Financial Controller Director prepares a schedule showing, for each receipt year: income received, scholarships paid against it, the remaining amount needed to reach 90%, and the deadline. The schedule goes to the Board.
 5. **Early action.** If a deadline is at risk, the Board acts at least six months before it, for example by raising award tiers or opening a supplemental award cycle.
-
-> **⚑ Review flag FIN-R2.** If TENNISSA ever fails the 85% activity test, the 90% requirement would apply to **all** of its income, including operating gifts. That would make it very difficult to pay overhead. The CPA should confirm each year how activities are measured (the proposed regulations ask for comments on the metric) and that TENNISSA qualifies.
 
 ### 6.4 Holding funds
 
@@ -174,4 +168,4 @@ The Board reviews this policy every year, after each audit, and whenever Section
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

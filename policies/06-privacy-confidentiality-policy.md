@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-PRIV-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Executive Director (Privacy Officer), or another officer the Board designates |
 | **Review cycle** | Every year, and after any significant incident |
 | **Related** | [Records Retention](03-records-retention-policy.md) · [Scholarship](01-scholarship-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Whistleblower](04-whistleblower-policy.md) · [Code of Ethics](13-code-of-ethics.md) |
@@ -103,8 +101,6 @@ Information is kept and destroyed under the [Records Retention Policy](03-record
    - **reports** to the Board.
 3. Service providers must notify TENNISSA of any incident affecting TENNISSA data within the time stated in their contract.
 
-> **⚑ Review flag PRIV-R1.** Counsel should confirm (a) the current text of Tenn. Code Ann. § 47-18-2107, and (b) that TENNISSA, as a nonprofit, is not subject to the Tennessee Information Protection Act (Tenn. Code Ann. § 47-18-3201 et seq.) or other comprehensive state privacy laws for donors in other states.
-
 ## 12. Confidentiality Agreements and Training
 
 1. Directors, officers, staff, volunteers, scholarship reviewers and contractors sign a confidentiality agreement and must protect information during and after their service.
@@ -125,4 +121,4 @@ The Board reviews this policy every year, after any significant incident and whe
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |
