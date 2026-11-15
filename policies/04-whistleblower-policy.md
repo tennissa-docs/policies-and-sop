@@ -4,11 +4,14 @@
 |---|---|
 | **Policy ID** | TENNISSA-WB-001 |
 | **Version** | 1.0 |
-| **Effective date** | Date of Board adoption: 10/30/2026 |
-| **Adopted by** | Board of Directors|
+| **Status** | Draft for Board review. Needs counsel review before adoption. |
+| **Effective date** | Date of Board adoption: ____________ |
+| **Adopted by** | Board of Directors, Resolution No. ____________ |
 | **Policy owner** | Board Chair, or the designated Compliance Contact |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Records Retention](03-records-retention-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Code of Ethics](13-code-of-ethics.md) · [Employment](10-employment-policy.md) |
+
+> **Plain-language summary.** If you see something wrong, report it, to us or directly to a government office. You may report anonymously. No one will be punished for an honest report. Concerns about a founder or officer go to someone independent of them.
 
 ---
 
@@ -49,8 +52,9 @@ Report suspected:
 
 Reports may be written or oral. A person receiving an oral report writes a short summary and confirms it with the reporter where possible.
 
-**Anonymous internal reports** may be made to the Independent Reporting Contact through Independent Advisory Committee (IAC). Anonymous reports are harder to follow up, so include enough detail (who, what, when, where, and any documents) for an investigation.
+**Anonymous internal reports** may be made to the Independent Reporting Contact through `[confidential reporting address or form, to be designated by the Board]`. Anonymous reports are harder to follow up, so include enough detail (who, what, when, where, and any documents) for an investigation.
 
+> **⚑ Review flag WB-R1.** The Board must designate the Independent Reporting Contact and the confidential reporting channel, and publish them, before this policy is adopted. Because the three Founding Directors hold permanent seats and include the Executive Director, a route that does not depend on the founders is essential.
 
 ## 5. External Reporting
 
@@ -63,6 +67,8 @@ Nothing in this policy limits anyone's right to report directly to a government 
 | Section 25F scholarship program compliance (eligibility, SGO requirements) | Tennessee Department of Education |
 | Federal tax-exempt or Section 25F violations | IRS, Form 13909 (Tax-Exempt Organization Complaint/Referral) |
 | Crimes | Law enforcement |
+
+> **⚑ Review flag WB-R2.** The Secretary of State's Division of Charitable Solicitations and Gaming accepts nonprofit complaints and has opened investigations from anonymous tips. Its jurisdiction is charitable solicitation; governance and asset-misuse matters generally belong to the Attorney General. Counsel should confirm (a) that the Division's current complaint process allows a complainant to remain anonymous, and (b) the correct agency for each category, and should update this table and the website if needed.
 
 ## 6. Good Faith
 
@@ -117,10 +123,14 @@ Corrective action may include:
 - revising policies; and
 - notifying authorities where required.
 
-## 12. Distribution 
+## 12. Distribution and Review
 
-This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. 
+This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. The Board reviews it every year.
 
-## 13. Review
+---
 
-The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
+## Revision History
+
+| Version | Date | Description | Approved by |
+|---|---|---|---|
+| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
