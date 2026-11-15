@@ -4,12 +4,12 @@
 |---|---|
 | **Policy ID** | TENNISSA-SCH-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Status** | Draft for Board review. Not in effect until adopted. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Executive Director, with oversight by the Scholarship Committee |
 | **Review cycle** | Every year, and whenever federal or Tennessee rules change |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Records Retention](03-records-retention-policy.md) · [Financial Controls](02-financial-controls-policy.md) |
-
-> **Plain-language summary.** TENNISSA gives need-based K–12 scholarships to Tennessee students attending accredited Islamic schools. Scholarships are **last-dollar**: the family's state scholarship awards, school aid and other scholarships are applied first, and TENNISSA helps cover the tuition and required fees that remain. Awards are paid directly to the school, never to families as cash.
 
 ---
 
@@ -135,12 +135,7 @@ Scholarship applicants must:
 
 ### 5.6 Disqualified persons
 
-No scholarship may be awarded to a **disqualified person**. Under the proposed Section 25F regulations, disqualified persons include:
-
-- TENNISSA's directors and officers (and anyone with similar powers);
-- anyone who participates in selecting scholarship recipients, including Scholarship Committee members and reviewers;
-- **substantial contributors**, generally any person who gave more than $5,000 to TENNISSA's Section 25F account in a taxable year where that amount is more than 2% of all contributions the account received that year (a spouse's gifts are combined; status lasts for that year and the next); and
-- **family members** of any of these people: spouses; ancestors and descendants of the individual or the individual's spouse; siblings of the individual or the individual's spouse; descendants of those siblings; and the spouse of any of these. Descendants include adopted children and stepchildren.
+TENNISSA shall not award scholarships to any individual who is a disqualified person under Section **Proposed Treasury Regulation § 1.25F-3(d) of the Internal Revenue Code**, as amended, and applicable Treasury regulations and guidance.
 
 TENNISSA screens every application against its disqualified-person register (see [COI-001](07-conflict-of-interest-policy.md) §5) before an award is approved.
 
@@ -171,6 +166,7 @@ TENNISSA must provide scholarships to **10 or more students who do not all atten
 ### 6.4 Nondiscrimination and fairness
 
 Selection may not be based on race, color, national origin, sex, disability or religion, and may not be influenced by personal relationships, favoritism or private benefit. Who a donor is, or how much a donor gives, never affects selection.
+
 
 ### 6.5 Decision makers
 
@@ -208,7 +204,8 @@ Awards are made for one school year at a time. Renewal requires a new applicatio
 
 ### 8.1 Qualified Costs only
 
-Awards pay only tuition and required fees charged by the participating school. These are qualified elementary or secondary education expenses under IRC § 530(b)(3)(A), as referenced by Section 25F.
+Awards pay only tuition and required fees charged by the participating school under IRC § 530(b)(3)(A), as referenced by Section 25F.
+
 
 ### 8.2 Paid directly to the school
 
@@ -263,9 +260,3 @@ The Executive Director reports to the Board at least quarterly on applications, 
 The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

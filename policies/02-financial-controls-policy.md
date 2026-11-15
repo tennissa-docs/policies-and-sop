@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-FIN-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Financial Controller Director (Treasurer), with Board oversight |
 | **Review cycle** | Every year, and after each annual audit |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Records Retention](03-records-retention-policy.md) · [Expense Reimbursement](09-expense-reimbursement-policy.md) · [Investment](11-investment-policy.md) |
-
-> **Plain-language summary.** Credit-eligible scholarship gifts go into their own bank account and are spent on scholarships on a tracked timeline. Salaries and other operating costs are paid from a separate operating account. Every significant payment needs two people. No one approves money going to themselves.
 
 ---
 
@@ -83,13 +82,11 @@ The Section 25F account receives **only**:
 
 Every contribution the donor designates as a qualified contribution is deposited in this account, whether or not the donor ultimately claims a credit. All other gifts go to the operating account.
 
-**Gross deposit.** Qualified contributions are deposited at their full amount. Card or platform processing fees may not be netted against them. Fees are paid from the operating account.
+**Donor-Paid Payment Processing Fees** Donors shall be responsible for any applicable credit card, electronic payment, or platform processing fees associated with their contributions. Such fees shall be separately identified and paid in addition to the intended charitable contribution. Only the amount designated and received by TENNISSA as a charitable contribution shall be recorded as the donor's contribution and considered for Section 25F qualification, subject to applicable law and regulations. Processing fees paid directly to third-party payment processors shall not be represented as qualified contributions or included in TENNISSA's scholarship contribution records.
 
 ### 6.2 What goes out
 
 Funds leave the Section 25F account **only** for scholarship payments for eligible students under the [Scholarship Policy](01-scholarship-policy.md). Administrative, fundraising and personnel costs, including all compensation, are paid **only** from the operating account.
-
-> **Why this rule.** The proposed Section 25F regulations require the account to hold only qualified contributions and their earnings, and require at least 90% of its income to be spent on scholarships. Paying all overhead from the operating account is the simplest way to keep the account clean, meet the spending test and keep the expense rules in all TENNISSA policies consistent.
 
 ### 6.3 The 90% spending requirement
 
@@ -160,12 +157,7 @@ Financial records are kept under the [Records Retention Policy](03-records-reten
 
 ## 13. Review
 
-The Board reviews this policy every year, after each audit, and whenever Section 25F guidance changes.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

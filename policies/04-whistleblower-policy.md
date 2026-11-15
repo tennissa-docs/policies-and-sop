@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-WB-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors|
 | **Policy owner** | Board Chair, or the designated Compliance Contact |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Records Retention](03-records-retention-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Code of Ethics](13-code-of-ethics.md) · [Employment](10-employment-policy.md) |
-
-> **Plain-language summary.** If you see something wrong, report it, to us or directly to a government office. You may report anonymously. No one will be punished for an honest report. Concerns about a founder or officer go to someone independent of them.
 
 ---
 
@@ -50,7 +49,8 @@ Report suspected:
 
 Reports may be written or oral. A person receiving an oral report writes a short summary and confirms it with the reporter where possible.
 
-**Anonymous internal reports** may be made to the Independent Reporting Contact through `[confidential reporting address or form, to be designated by the Board]`. Anonymous reports are harder to follow up, so include enough detail (who, what, when, where, and any documents) for an investigation.
+**Anonymous internal reports** may be made to the Independent Reporting Contact through Independent Advisory Committee (IAC). Anonymous reports are harder to follow up, so include enough detail (who, what, when, where, and any documents) for an investigation.
+
 
 ## 5. External Reporting
 
@@ -117,14 +117,10 @@ Corrective action may include:
 - revising policies; and
 - notifying authorities where required.
 
-## 12. Distribution and Review
+## 12. Distribution 
 
-This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. The Board reviews it every year.
+This policy is distributed every year to directors, officers, staff, volunteers and scholarship reviewers, and is posted on TENNISSA's website with the reporting contacts. 
 
----
+## 13. Review
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.

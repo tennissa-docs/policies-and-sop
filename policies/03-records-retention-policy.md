@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-REC-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026|
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Records Custodian (Executive Director or designee) |
 | **Review cycle** | Every year |
 | **Related** | [Privacy](06-privacy-confidentiality-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Whistleblower](04-whistleblower-policy.md) |
-
-> **Plain-language summary.** Keep what the law and the scholarship tax credit program require, for as long as they require it, in secure systems with limited access. Destroy everything else securely, on schedule. Never destroy anything once an investigation, audit or lawsuit is possible.
 
 ---
 
@@ -75,7 +74,6 @@ Unless a longer period is required by law, contract, grant, donor restriction or
 | Routine correspondence and website interest-form submissions | 3 years, unless related to a legal, financial or program matter |
 | Destruction logs | Permanent |
 
-> *Note on the 10-year rule.* A donor may carry an unused Section 25F credit forward for up to five years, and the IRS can generally examine the return on which the credit is finally used for three years after it is filed. Scholarship records support the 90% spending test and the annual Section 25F audit for the same years. Seven years can therefore be too short. The Board may shorten a 10-year period only on written advice from its CPA or counsel.
 
 ## 5. Public Disclosure
 
@@ -107,12 +105,4 @@ The Records Custodian runs this policy under Board oversight, trains people who 
 
 ## 9. Review
 
-The Board reviews this policy every year.
-
----
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.

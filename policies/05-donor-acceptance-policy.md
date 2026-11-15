@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-DON-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Executive Director |
 | **Review cycle** | Every year |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Scholarship](01-scholarship-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) |
-
-> **Plain-language summary.** Only cash gifts from individuals, designated as credit-eligible when made, and given while TENNISSA is on the official list, can earn the federal scholarship tax credit. A donor cannot choose a student or trade a gift for a benefit. TENNISSA alone decides who receives scholarships. We describe the credit accurately and never give tax advice.
 
 ---
 
@@ -115,20 +114,20 @@ TENNISSA may honor a donor's request for **public** anonymity, but TENNISSA itse
 
 A gift may be returned only for a lawful reason, such as an earmarking or quid-pro-quo violation, a mistaken payment or fraud, with the approval of the Executive Director and the Financial Controller Director. A gift reported to the IRS as a qualified contribution is refunded and corrected only under [SGO-001](08-section-25f-compliance-policy.md) §5, with CPA or counsel guidance.
 
+
 ## 12. Gift Restrictions
 
 1. Restrictions are documented in writing and honored as long as they remain lawful and practicable.
 2. Restrictions may not be changed without donor consent or the authority the law provides when a purpose becomes impossible or impracticable, after consulting counsel.
 3. No restriction may reduce TENNISSA's control over scholarship selection or override the [Scholarship Policy](01-scholarship-policy.md).
 
-## 13. Reporting and Review
+## 13. Reporting 
 
-The Executive Director keeps donation records and reports unusual gifts, refused gifts and any earmarking attempts to the Board. The Board reviews this policy every year.
+The Executive Director keeps donation records and reports unusual gifts, refused gifts and any earmarking attempts to the Board. 
+
+## 14. Review
+
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

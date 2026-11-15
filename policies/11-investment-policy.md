@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-INV-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Financial Controller Director |
 | **Review cycle** | Every year |
 | **Related** | [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) |
-
-> **Plain-language summary.** TENNISSA holds charitable funds in safe, liquid, insured accounts. We do not put scholarship money in the stock market. Protecting the principal and having money available when tuition is due come first.
 
 ---
 
@@ -71,16 +70,13 @@ Noncash gifts of prohibited assets are sold promptly under [DON-001 §8](05-dono
 3. Transfers out of any account follow the dual-authorization rules in [FIN-001 §4.4](02-financial-controls-policy.md).
 4. No director or officer may direct TENNISSA funds to an institution or product in which they or a family member have a financial interest without approval under the [Conflict of Interest Policy](07-conflict-of-interest-policy.md).
 
-## 9. Reporting and Review
+## 9. Reporting
 
 1. The monthly financial report to the Board includes each account's balance, institution, product type and earnings, and confirms compliance with this policy.
 2. The Financial Controller Director reports any breach of this policy to the Board Chair immediately.
-3. The Board reviews this policy every year.
+
+## 10. Review
+
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.   
 
 ---
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

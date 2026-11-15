@@ -4,12 +4,12 @@
 |---|---|
 | **Policy ID** | TENNISSA-SGO-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Compliance Director, with the Financial Controller Director |
 | **Review cycle** | Every year, and within 60 days after new IRS, Treasury or TDOE guidance |
 | **Related** | [Scholarship](01-scholarship-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Records Retention](03-records-retention-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) |
 
-> **Plain-language summary.** Keeping TENNISSA on Tennessee's list, and protecting donors' credits, depends on a specific set of federal requirements. This policy gives each requirement an owner and a deadline, and flags what still depends on rules that are not yet final.
 
 ---
 
@@ -20,6 +20,7 @@ This policy assigns responsibility for TENNISSA's compliance with:
 - **IRC § 25F** (qualified elementary and secondary education scholarships), added by § 70411 of Public Law 119-21 (July 4, 2025), and **IRC § 139K**, which excludes qualifying scholarships from recipients' income. Section 25F applies to taxable years ending after December 31, 2026; credit-eligible contributions begin **January 1, 2027**. The program is also called the Federal Scholarship Tax Credit (FSTC) or Education Freedom Tax Credit;
 - **Treasury guidance**: Notice 2025-70; Rev. Proc. 2026-6 (state advance elections); **proposed regulations** §§ 1.25F-1 through 1.25F-5 (REG-117199-25, 91 FR 62818, October 2, 2026); and companion **temporary regulations** (T.D. 10057) on registration, reporting and certification; and
 - **Tennessee law**: the Federal Tax Credit Scholarship Act (2026), under which Tennessee elected to participate and TDOE certifies SGOs, submits Tennessee's State SGO list to the Treasury and publishes it.
+
 
 ## 2. Status Requirements
 
@@ -34,6 +35,7 @@ TENNISSA must maintain all of the following at all times:
 | Separate Section 25F account | Bank records; [FIN-001 §6](02-financial-controls-policy.md) | Financial Controller Director |
 
 Credit-eligible contributions are accepted **only** while every requirement above is current (see [DON-001 §3.2](05-donor-acceptance-policy.md)). If any requirement lapses, or TENNISSA is removed from a State or IRS SGO list, the Compliance Director tells the Board immediately and TENNISSA stops describing contributions as credit-eligible until the requirement is restored.
+
 
 ## 3. Core Operating Requirements
 
@@ -75,6 +77,7 @@ Credit-eligible contributions are accepted **only** while every requirement abov
 | **By the Tennessee deadline** | Renew Tennessee charitable registration or exemption. | Executive Director |
 | **Annually** | Board reviews all policies and this calendar. | Board |
 
+
 ## 5. Corrections and Errors
 
 1. If TENNISSA discovers an error in a donor acknowledgment, an IRS report, a 90% calculation or a scholarship award, the Compliance Director tells the Executive Director and the Board Chair within **5 business days**.
@@ -114,12 +117,7 @@ At every regular meeting, the Compliance Director gives a short compliance dashb
 
 ## 9. Review
 
-The Board reviews this policy every year, and within 60 days after final Section 25F regulations, new IRS procedures or TDOE rules are issued.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

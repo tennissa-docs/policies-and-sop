@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-JV-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Board of Directors |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) |
-
-> **Plain-language summary.** If TENNISSA ever partners with a business or another organization, the arrangement must keep TENNISSA in control of its charitable mission and money, must not benefit any private person beyond fair value, and must be approved by the Board after legal review.
 
 ---
 
@@ -54,12 +53,6 @@ Every joint venture agreement must:
 
 ## 7. Review
 
-The Board reviews this policy every year.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
-
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

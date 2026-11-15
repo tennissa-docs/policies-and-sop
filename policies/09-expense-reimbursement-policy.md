@@ -4,12 +4,11 @@
 |---|---|
 | **Policy ID** | TENNISSA-EXP-001 |
 | **Version** | 1.0 |
-| **Status** | Adopted by the Board of Directors. |
+| **Effective date** | Date of Board adoption: 10/30/2026 |
+| **Adopted by** | Board of Directors |
 | **Policy owner** | Financial Controller Director |
 | **Review cycle** | Every year |
 | **Related** | [Financial Controls](02-financial-controls-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Employment](10-employment-policy.md) |
-
-> **Plain-language summary.** If you spend your own money on approved TENNISSA business, you can be paid back, tax-free for employees, if you submit receipts and a business purpose within 60 days and return any unused advance within 120 days. Someone other than you approves it, and it is paid from the operating account.
 
 ---
 
@@ -81,14 +80,10 @@ An individual may not seek reimbursement for goods or services bought from a bus
 
 Volunteers and unpaid directors are reimbursed under the same rules. Volunteers who choose not to seek reimbursement should consult their own tax adviser about any deduction available to them; TENNISSA does not give tax advice.
 
+
 ## 9. Review
 
-The Board reviews this policy every year.
+The Board reviews this policy every year and whenever federal regulations, IRS guidance, TDOE rules or Tennessee's state scholarship programs change.
 
 ---
 
-## Revision History
-
-| Version | Date | Description | Approved by |
-|---|---|---|---|
-| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |
