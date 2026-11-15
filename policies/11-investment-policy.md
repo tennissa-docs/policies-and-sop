@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-INV-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Financial Controller Director |
 | **Review cycle** | Every year |
 | **Related** | [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) |
@@ -22,8 +20,6 @@ This policy sets rules for managing and holding TENNISSA's financial assets. Sec
 ## 2. Standard of Care
 
 Those responsible for TENNISSA's funds act in good faith and with the care an ordinarily prudent person in a like position would exercise under similar circumstances, considering TENNISSA's charitable purposes, its spending needs and the need to preserve capital.
-
-> **⚑ Review flag INV-R1.** Counsel should confirm which Tennessee prudence standards apply, including the Tennessee Uniform Prudent Management of Institutional Funds Act (Tenn. Code Ann. § 35-10-201 et seq.) if TENNISSA holds any donor-restricted or long-term funds.
 
 ## 3. Objectives (in order)
 
@@ -87,4 +83,4 @@ Noncash gifts of prohibited assets are sold promptly under [DON-001 §8](05-dono
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-EXP-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Financial Controller Director |
 | **Review cycle** | Every year |
 | **Related** | [Financial Controls](02-financial-controls-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Employment](10-employment-policy.md) |
@@ -83,8 +81,6 @@ An individual may not seek reimbursement for goods or services bought from a bus
 
 Volunteers and unpaid directors are reimbursed under the same rules. Volunteers who choose not to seek reimbursement should consult their own tax adviser about any deduction available to them; TENNISSA does not give tax advice.
 
-> **⚑ Review flag EXP-R1.** The CPA should confirm how reimbursements to unpaid directors and volunteers are reported, and whether any reimbursement to a director who is also an employee must run through payroll.
-
 ## 9. Review
 
 The Board reviews this policy every year.
@@ -95,4 +91,4 @@ The Board reviews this policy every year.
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

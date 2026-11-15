@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-JV-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Board of Directors |
 | **Review cycle** | Every year |
 | **Related** | [Conflict of Interest](07-conflict-of-interest-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) |
@@ -64,4 +62,4 @@ The Board reviews this policy every year.
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

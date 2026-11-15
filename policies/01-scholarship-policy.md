@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-SCH-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Not in effect until adopted. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Executive Director, with oversight by the Scholarship Committee |
 | **Review cycle** | Every year, and whenever federal or Tennessee rules change |
 | **Related** | [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Donor Acceptance](05-donor-acceptance-policy.md) · [Conflict of Interest](07-conflict-of-interest-policy.md) · [Privacy](06-privacy-confidentiality-policy.md) · [Records Retention](03-records-retention-policy.md) · [Financial Controls](02-financial-controls-policy.md) |
@@ -28,8 +26,6 @@ TENNISSA administers scholarships in accordance with:
 - lawful donor restrictions, as limited by the [Donor Acceptance Policy](05-donor-acceptance-policy.md).
 
 If this policy conflicts with Section 25F or other applicable law, the law controls.
-
-> **⚑ Review flag SCH-R1.** Section 25F regulations are currently **proposed** (REG-117199-25, published October 2, 2026; comments due December 1, 2026). Organizations may rely on them for 2027 only if they follow them in their entirety and consistently. Counsel should confirm this policy against the final regulations and the separate IRS guidance on qualified expenses under IRC § 530(b)(3) when issued.
 
 ## 2. Scope
 
@@ -64,11 +60,7 @@ To take part in the scholarship program, a school must meet **all** of the follo
 
 A school approved by TDOE in Category II or Category III on the basis of its accreditation satisfies this requirement. A Category I school must separately show accreditation under (1) or (2).
 
-> **⚑ Review flag SCH-R2.** The Board should adopt and publish its list under §4.1(B)(2) before the first award cycle. Counsel should confirm the current TDOE list of accrediting agencies accepted for Category II and III approval.
-
 **C. Islamic school.** The school is an Islamic elementary or secondary school, meaning it publicly identifies as Islamic in its governing documents or mission statement and provides Islamic studies as part of its regular curriculum. This criterion carries out TENNISSA's charitable purpose as stated in its Articles of Incorporation.
-
-> **⚑ Review flag SCH-R3.** Counsel should confirm that §4.1(C) matches the purposes stated in TENNISSA's Articles of Incorporation. The proposed Section 25F regulations prohibit a *State* from limiting the types of schools scholarship recipients may attend, but expressly allow an SGO to narrow its own focus, provided it otherwise meets all Section 25F requirements, including the requirement to fund students at more than one school (§6.3).
 
 **D. Lawful operation and good standing.** The school is lawfully operating in Tennessee, is in good standing with its approving body, and is not barred from any Tennessee or federal school-choice program because of fraud or misconduct.
 
@@ -152,8 +144,6 @@ No scholarship may be awarded to a **disqualified person**. Under the proposed S
 
 TENNISSA screens every application against its disqualified-person register (see [COI-001](07-conflict-of-interest-policy.md) §5) before an award is approved.
 
-> **⚑ Review flag SCH-R4.** This definition is broader than the conflict-of-interest family definition used elsewhere: it reaches nieces, nephews and a spouse's siblings. In a close school community this may exclude many families connected to directors and committee members. Counsel should confirm the final definition and the relief for inadvertent awards in proposed Treas. Reg. § 1.25F-3(d)(2)(ii).
-
 ## 6. Priority and Selection
 
 ### 6.1 Section 25F priority
@@ -181,8 +171,6 @@ TENNISSA must provide scholarships to **10 or more students who do not all atten
 ### 6.4 Nondiscrimination and fairness
 
 Selection may not be based on race, color, national origin, sex, disability or religion, and may not be influenced by personal relationships, favoritism or private benefit. Who a donor is, or how much a donor gives, never affects selection.
-
-> **⚑ Review flag SCH-R5.** Religion is listed as a prohibited selection factor because TENNISSA selects students by need, not belief. A participating school's own religious admissions criteria are unaffected. The Board should confirm this choice.
 
 ### 6.5 Decision makers
 
@@ -221,8 +209,6 @@ Awards are made for one school year at a time. Renewal requires a new applicatio
 ### 8.1 Qualified Costs only
 
 Awards pay only tuition and required fees charged by the participating school. These are qualified elementary or secondary education expenses under IRC § 530(b)(3)(A), as referenced by Section 25F.
-
-> **⚑ Review flag SCH-R6.** Section 25F allows a broader range of expenses (for example, books, supplies, tutoring and certain technology). Limiting awards to tuition and required fees is a deliberate policy choice that keeps administration simple. The Board may broaden the definition only after counsel reviews the forthcoming IRS guidance under § 530(b)(3).
 
 ### 8.2 Paid directly to the school
 
@@ -282,4 +268,4 @@ The Board reviews this policy every year and whenever federal regulations, IRS g
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |

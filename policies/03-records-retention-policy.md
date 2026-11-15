@@ -4,9 +4,7 @@
 |---|---|
 | **Policy ID** | TENNISSA-REC-001 |
 | **Version** | 1.0 |
-| **Status** | Draft for Board review. Needs counsel and CPA review before adoption. |
-| **Effective date** | Date of Board adoption: ____________ |
-| **Adopted by** | Board of Directors, Resolution No. ____________ |
+| **Status** | Adopted by the Board of Directors. |
 | **Policy owner** | Records Custodian (Executive Director or designee) |
 | **Review cycle** | Every year |
 | **Related** | [Privacy](06-privacy-confidentiality-policy.md) · [Financial Controls](02-financial-controls-policy.md) · [Section 25F Compliance](08-section-25f-compliance-policy.md) · [Whistleblower](04-whistleblower-policy.md) |
@@ -79,8 +77,6 @@ Unless a longer period is required by law, contract, grant, donor restriction or
 
 > *Note on the 10-year rule.* A donor may carry an unused Section 25F credit forward for up to five years, and the IRS can generally examine the return on which the credit is finally used for three years after it is filed. Scholarship records support the 90% spending test and the annual Section 25F audit for the same years. Seven years can therefore be too short. The Board may shorten a 10-year period only on written advice from its CPA or counsel.
 
-> **⚑ Review flag REC-R1.** The proposed Section 25F regulations add recordkeeping duties but, as published, do not set a specific retention period. Counsel should confirm whether the final regulations, IRS forms or TDOE impose one.
-
 ## 5. Public Disclosure
 
 As federal law requires, TENNISSA makes the following available for public inspection and provides copies on request:
@@ -119,4 +115,4 @@ The Board reviews this policy every year.
 
 | Version | Date | Description | Approved by |
 |---|---|---|---|
-| 1.0 | November 2026 (draft) | Initial policy for Board adoption. | Pending Board adoption |
+| 1.0 | November 2026 | Initial policy for Board adoption. | Board of Directors |
